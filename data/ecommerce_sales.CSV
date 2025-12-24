@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,gender,age,product_category,product_name,quantity,unit_price,total_amount,payment_method,order_status,delivery_status,country,city
+A1000,9/25/2023,C754,Female,57,Home & Kitchen,Product_120,2,6071,12142,Card,Returned,Not Delivered,India,Jaipur
+A1001,5/23/2023,C214,Female,33,Home & Kitchen,Product_146,1,3139,3139,COD,Returned,Not Delivered,India,Jaipur
+A1002,6/16/2023,C125,Male,49,Clothing,Product_91,1,16497,16497,Card,Cancelled,Not Delivered,India,Hyderabad
+A1003,9/22/2023,C859,Male,23,Clothing,Product_185,3,632,1896,Card,Cancelled,Delivered,India,Indore
+A1004,9/9/2023,C381,Female,19,Electronics,Product_76,3,23625,70875,UPI,Cancelled,Delivered,India,Hyderabad
+A1005,7/8/2023,C350,Female,53,Beauty,Product_109,3,19356,58068,COD,Returned,Not Delivered,India,Jaipur
+A1006,5/19/2023,C328,Female,34,Clothing,Product_31,3,15168,45504,COD,Completed,Not Delivered,India,Mumbai
+A1007,12/20/2023,C242,Male,30,Clothing,Product_190,3,17859,53577,Card,Cancelled,Not Delivered,India,Mumbai
+A1008,4/27/2023,C854,Female,29,Beauty,Product_4,1,10007,10007,COD,Returned,Delivered,India,Hyderabad
+A1009,10/11/2023,C204,Female,26,Home & Kitchen,Product_27,1,2086,2086,UPI,Returned,Not Delivered,India,Indore
+A1010,6/24/2023,C792,Male,21,Beauty,Product_123,2,14733,29466,UPI,Completed,Not Delivered,India,Indore
+A1011,11/19/2023,C858,Male,27,Clothing,Product_145,1,19207,19207,Card,Completed,Delivered,India,Mumbai
+A1012,11/7/2023,C658,Male,51,Home & Kitchen,Product_116,3,13937,41811,Card,Cancelled,Not Delivered,India,Hyderabad
+A1013,1/31/2023,C189,Male,31,Clothing,Product_68,3,20649,61947,COD,Completed,Delivered,India,Bangalore
+A1014,2/8/2023,C704,Male,18,Home & Kitchen,Product_116,1,18387,18387,COD,Returned,Not Delivered,India,Hyderabad
+A1015,5/28/2023,C532,Female,47,Electronics,Product_176,1,7885,7885,UPI,Cancelled,Delivered,India,Chennai
+A1016,4/26/2023,C132,Male,35,Clothing,Product_19,1,18144,18144,UPI,Completed,Not Delivered,India,Hyderabad
+A1017,8/28/2023,C130,Female,43,Beauty,Product_129,2,4374,8748,COD,Cancelled,Not Delivered,India,Mumbai
+A1018,8/10/2023,C195,Female,56,Beauty,Product_7,3,1606,4818,UPI,Completed,Delivered,India,Hyderabad
+A1019,3/31/2023,C323,Female,51,Home & Kitchen,Product_72,3,1618,4854,UPI,Returned,Not Delivered,India,Indore
+A1020,6/28/2023,C338,Female,39,Beauty,Product_172,1,15701,15701,UPI,Completed,Not Delivered,India,Chennai
+A1021,5/28/2023,C617,Female,53,Electronics,Product_117,3,16535,49605,UPI,Cancelled,Not Delivered,India,Jaipur
+A1022,9/21/2023,C716,Male,60,Home & Kitchen,Product_106,1,13544,13544,UPI,Completed,Not Delivered,India,Indore
+A1023,1/27/2023,C127,Male,35,Clothing,Product_74,3,14784,44352,Card,Returned,Not Delivered,India,Mumbai
+A1024,11/8/2023,C674,Male,28,Beauty,Product_142,1,20944,20944,UPI,Returned,Not Delivered,India,Mumbai
+A1025,8/25/2023,C303,Male,59,Clothing,Product_128,1,4017,4017,COD,Cancelled,Not Delivered,India,Chennai
+A1026,5/5/2023,C833,Female,53,Clothing,Product_99,2,15773,31546,UPI,Returned,Delivered,India,Mumbai
+A1027,6/24/2023,C765,Female,18,Beauty,Product_186,2,13896,27792,Card,Returned,Not Delivered,India,Delhi
+A1028,9/5/2023,C818,Female,39,Home & Kitchen,Product_117,2,17948,35896,Card,Completed,Delivered,India,Chennai
+A1029,1/23/2023,C658,Female,48,Home & Kitchen,Product_99,1,13760,13760,COD,Returned,Delivered,India,Indore
+A1030,9/15/2023,C529,Female,24,Home & Kitchen,Product_26,1,4436,4436,COD,Cancelled,Delivered,India,Delhi
+A1031,3/21/2023,C325,Male,48,Beauty,Product_87,2,21755,43510,COD,Returned,Not Delivered,India,Mumbai
+A1032,10/1/2023,C559,Female,38,Home & Kitchen,Product_139,2,22397,44794,UPI,Returned,Delivered,India,Bangalore
+A1033,5/28/2023,C703,Male,23,Home & Kitchen,Product_26,3,22726,68178,COD,Returned,Delivered,India,Indore
+A1034,6/3/2023,C384,Male,20,Beauty,Product_15,1,23041,23041,Card,Cancelled,Not Delivered,India,Chennai
+A1035,9/29/2023,C928,Female,54,Clothing,Product_44,1,8301,8301,UPI,Completed,Not Delivered,India,Bangalore
+A1036,3/15/2023,C990,Male,47,Beauty,Product_118,2,19408,38816,Card,Returned,Delivered,India,Indore
+A1037,10/7/2023,C106,Male,22,Home & Kitchen,Product_89,2,22503,45006,COD,Cancelled,Not Delivered,India,Hyderabad
+A1038,4/12/2023,C877,Female,48,Electronics,Product_61,2,10199,20398,Card,Returned,Not Delivered,India,Hyderabad
+A1039,1/12/2023,C925,Female,35,Electronics,Product_145,3,9974,29922,COD,Returned,Delivered,India,Indore
+A1040,11/7/2023,C263,Female,32,Clothing,Product_159,2,7840,15680,Card,Returned,Delivered,India,Mumbai
+A1041,1/21/2023,C814,Female,46,Electronics,Product_149,3,21479,64437,Card,Returned,Delivered,India,Mumbai
+A1042,8/1/2023,C532,Male,30,Clothing,Product_139,2,11005,22010,Card,Returned,Not Delivered,India,Delhi
+A1043,6/1/2023,C448,Female,25,Home & Kitchen,Product_20,2,16089,32178,UPI,Completed,Not Delivered,India,Jaipur
+A1044,1/8/2023,C384,Female,52,Electronics,Product_117,1,13229,13229,Card,Returned,Not Delivered,India,Chennai
+A1045,2/25/2023,C259,Male,48,Electronics,Product_159,3,12472,37416,COD,Cancelled,Delivered,India,Mumbai
+A1046,12/25/2023,C320,Female,59,Home & Kitchen,Product_30,3,15513,46539,UPI,Completed,Delivered,India,Hyderabad
+A1047,2/19/2023,C881,Male,52,Clothing,Product_100,2,4105,8210,Card,Cancelled,Not Delivered,India,Delhi
+A1048,2/20/2023,C444,Female,57,Home & Kitchen,Product_72,2,21760,43520,UPI,Returned,Not Delivered,India,Bangalore
+A1049,5/1/2023,C204,Female,24,Beauty,Product_140,2,14871,29742,COD,Cancelled,Delivered,India,Chennai
+A1050,3/4/2023,C194,Female,23,Clothing,Product_165,2,6519,13038,COD,Returned,Delivered,India,Pune
+A1051,3/6/2023,C489,Male,22,Clothing,Product_151,2,8281,16562,UPI,Completed,Not Delivered,India,Delhi
+A1052,5/22/2023,C199,Male,26,Beauty,Product_45,3,392,1176,UPI,Returned,Delivered,India,Delhi
+A1053,5/2/2023,C467,Female,19,Clothing,Product_68,1,12038,12038,UPI,Completed,Not Delivered,India,Mumbai
+A1054,9/1/2023,C967,Female,41,Electronics,Product_116,3,2382,7146,COD,Completed,Delivered,India,Hyderabad
+A1055,1/16/2023,C452,Male,48,Home & Kitchen,Product_110,2,21380,42760,COD,Completed,Not Delivered,India,Indore
+A1056,6/14/2023,C718,Male,22,Clothing,Product_71,1,2947,2947,COD,Returned,Not Delivered,India,Chennai
+A1057,5/31/2023,C370,Female,50,Home & Kitchen,Product_26,3,17685,53055,COD,Completed,Delivered,India,Chennai
+A1058,7/31/2023,C926,Female,47,Home & Kitchen,Product_107,2,7787,15574,COD,Completed,Not Delivered,India,Chennai
+A1059,5/11/2023,C144,Female,27,Home & Kitchen,Product_18,2,22094,44188,UPI,Completed,Delivered,India,Chennai
+A1060,7/10/2023,C847,Male,53,Electronics,Product_151,1,24698,24698,COD,Returned,Not Delivered,India,Mumbai
+A1061,12/7/2023,C570,Female,21,Beauty,Product_154,2,11886,23772,Card,Cancelled,Delivered,India,Bangalore
+A1062,9/4/2023,C649,Male,24,Beauty,Product_143,1,21819,21819,Card,Completed,Not Delivered,India,Bangalore
+A1063,11/15/2023,C227,Male,56,Beauty,Product_8,2,18681,37362,UPI,Cancelled,Not Delivered,India,Jaipur
+A1064,4/3/2023,C487,Male,54,Home & Kitchen,Product_18,2,500,1000,UPI,Returned,Delivered,India,Mumbai
+A1065,4/21/2023,C180,Female,44,Home & Kitchen,Product_88,3,17682,53046,UPI,Cancelled,Not Delivered,India,Jaipur
+A1066,2/13/2023,C665,Male,27,Clothing,Product_194,3,19837,59511,COD,Completed,Delivered,India,Hyderabad
+A1067,8/6/2023,C400,Female,56,Home & Kitchen,Product_107,2,21990,43980,Card,Completed,Delivered,India,Jaipur
+A1068,5/26/2023,C949,Female,51,Beauty,Product_12,2,3933,7866,UPI,Cancelled,Delivered,India,Pune
+A1069,4/19/2023,C743,Male,34,Beauty,Product_84,1,10176,10176,UPI,Completed,Not Delivered,India,Chennai
+A1070,7/14/2023,C733,Male,50,Beauty,Product_19,1,4533,4533,Card,Returned,Delivered,India,Chennai
+A1071,2/9/2023,C982,Female,54,Home & Kitchen,Product_147,1,15365,15365,Card,Returned,Not Delivered,India,Hyderabad
+A1072,1/11/2023,C470,Female,28,Home & Kitchen,Product_177,1,13572,13572,Card,Completed,Not Delivered,India,Mumbai
+A1073,10/29/2023,C691,Female,51,Electronics,Product_102,1,14576,14576,Card,Returned,Not Delivered,India,Bangalore
+A1074,2/9/2023,C296,Male,51,Clothing,Product_199,2,5809,11618,Card,Cancelled,Delivered,India,Bangalore
+A1075,5/12/2023,C821,Male,29,Clothing,Product_195,1,5098,5098,COD,Completed,Delivered,India,Indore
+A1076,10/24/2023,C171,Female,54,Beauty,Product_161,2,18772,37544,Card,Completed,Not Delivered,India,Mumbai
+A1077,11/20/2023,C146,Female,35,Electronics,Product_91,2,14790,29580,COD,Completed,Not Delivered,India,Indore
+A1078,1/30/2023,C777,Female,36,Electronics,Product_166,2,1532,3064,UPI,Returned,Not Delivered,India,Indore
+A1079,1/22/2023,C333,Female,54,Clothing,Product_83,3,18463,55389,COD,Cancelled,Delivered,India,Pune
+A1080,6/25/2023,C891,Male,50,Clothing,Product_11,2,3691,7382,UPI,Returned,Not Delivered,India,Indore
+A1081,11/9/2023,C396,Male,41,Beauty,Product_73,3,17429,52287,Card,Cancelled,Not Delivered,India,Pune
+A1082,6/21/2023,C181,Male,39,Electronics,Product_143,3,21510,64530,COD,Cancelled,Not Delivered,India,Hyderabad
+A1083,11/5/2023,C975,Male,39,Electronics,Product_150,3,21814,65442,COD,Completed,Not Delivered,India,Hyderabad
+A1084,12/6/2023,C338,Female,26,Electronics,Product_80,3,23187,69561,COD,Cancelled,Not Delivered,India,Delhi
+A1085,12/17/2023,C987,Male,59,Home & Kitchen,Product_131,3,23330,69990,Card,Completed,Not Delivered,India,Hyderabad
+A1086,6/24/2023,C203,Female,30,Clothing,Product_36,1,7318,7318,UPI,Completed,Not Delivered,India,Mumbai
+A1087,9/27/2023,C489,Male,60,Beauty,Product_197,3,17987,53961,COD,Completed,Not Delivered,India,Delhi
+A1088,12/21/2023,C384,Male,46,Electronics,Product_106,1,6225,6225,Card,Returned,Delivered,India,Indore
+A1089,8/18/2023,C564,Male,52,Clothing,Product_80,3,9636,28908,Card,Completed,Not Delivered,India,Indore
+A1090,7/15/2023,C750,Female,28,Clothing,Product_155,2,9533,19066,UPI,Cancelled,Delivered,India,Indore
+A1091,2/22/2023,C954,Male,36,Electronics,Product_196,2,18471,36942,UPI,Cancelled,Not Delivered,India,Delhi
+A1092,4/24/2023,C473,Female,40,Electronics,Product_107,2,3305,6610,UPI,Cancelled,Not Delivered,India,Bangalore
+A1093,7/11/2023,C266,Male,19,Beauty,Product_26,2,2974,5948,COD,Returned,Not Delivered,India,Delhi
+A1094,5/27/2023,C479,Female,26,Home & Kitchen,Product_115,1,1555,1555,COD,Completed,Delivered,India,Pune
+A1095,3/18/2023,C463,Female,25,Beauty,Product_61,2,7366,14732,Card,Completed,Delivered,India,Bangalore
+A1096,11/15/2023,C314,Female,22,Electronics,Product_128,2,21237,42474,COD,Returned,Delivered,India,Bangalore
+A1097,5/30/2023,C786,Female,18,Beauty,Product_62,3,5004,15012,COD,Cancelled,Delivered,India,Mumbai
+A1098,2/4/2023,C373,Male,42,Home & Kitchen,Product_12,3,12116,36348,COD,Cancelled,Not Delivered,India,Hyderabad
+A1099,7/2/2023,C818,Male,40,Clothing,Product_188,3,832,2496,COD,Returned,Delivered,India,Jaipur
+A1100,6/30/2023,C799,Female,59,Clothing,Product_200,1,1752,1752,COD,Cancelled,Not Delivered,India,Delhi
+A1101,8/23/2023,C763,Male,36,Clothing,Product_12,1,2367,2367,UPI,Completed,Not Delivered,India,Hyderabad
+A1102,10/6/2023,C173,Female,34,Electronics,Product_193,3,13349,40047,COD,Completed,Not Delivered,India,Jaipur
+A1103,6/19/2023,C723,Female,25,Beauty,Product_112,1,21787,21787,Card,Returned,Not Delivered,India,Chennai
+A1104,9/12/2023,C750,Female,41,Beauty,Product_22,2,6421,12842,COD,Cancelled,Delivered,India,Chennai
+A1105,10/7/2023,C275,Female,38,Electronics,Product_21,3,6213,18639,Card,Returned,Not Delivered,India,Hyderabad
+A1106,8/7/2023,C646,Male,46,Beauty,Product_115,2,20046,40092,UPI,Returned,Not Delivered,India,Chennai
+A1107,1/30/2023,C846,Male,60,Home & Kitchen,Product_94,2,21254,42508,COD,Returned,Delivered,India,Pune
+A1108,12/14/2023,C350,Female,20,Clothing,Product_18,1,20208,20208,UPI,Returned,Not Delivered,India,Jaipur
+A1109,1/17/2023,C267,Male,46,Beauty,Product_96,2,18887,37774,Card,Completed,Delivered,India,Jaipur
+A1110,11/29/2023,C573,Female,33,Electronics,Product_7,2,10601,21202,COD,Completed,Not Delivered,India,Chennai
+A1111,5/15/2023,C488,Female,46,Clothing,Product_157,3,4158,12474,Card,Returned,Not Delivered,India,Bangalore
+A1112,2/7/2023,C376,Female,29,Home & Kitchen,Product_23,1,4747,4747,COD,Cancelled,Not Delivered,India,Mumbai
+A1113,5/29/2023,C755,Female,28,Clothing,Product_93,3,18065,54195,COD,Completed,Delivered,India,Bangalore
+A1114,9/10/2023,C804,Male,41,Beauty,Product_120,1,8057,8057,COD,Completed,Delivered,India,Mumbai
+A1115,9/3/2023,C670,Female,44,Electronics,Product_33,2,13346,26692,Card,Returned,Delivered,India,Indore
+A1116,9/22/2023,C324,Female,26,Clothing,Product_197,2,22585,45170,UPI,Cancelled,Delivered,India,Mumbai
+A1117,6/5/2023,C801,Male,28,Beauty,Product_182,3,5314,15942,UPI,Cancelled,Not Delivered,India,Mumbai
+A1118,11/22/2023,C432,Female,26,Beauty,Product_158,2,6732,13464,COD,Completed,Delivered,India,Delhi
+A1119,11/16/2023,C963,Female,54,Electronics,Product_8,1,21885,21885,UPI,Completed,Not Delivered,India,Bangalore
+A1120,11/13/2023,C886,Male,49,Beauty,Product_165,3,13950,41850,Card,Cancelled,Delivered,India,Chennai
+A1121,2/7/2023,C894,Male,28,Home & Kitchen,Product_107,2,15161,30322,Card,Cancelled,Delivered,India,Jaipur
+A1122,6/10/2023,C157,Female,40,Home & Kitchen,Product_34,3,5007,15021,Card,Returned,Delivered,India,Jaipur
+A1123,3/4/2023,C334,Female,46,Clothing,Product_37,1,15585,15585,UPI,Completed,Not Delivered,India,Chennai
+A1124,5/8/2023,C941,Male,38,Beauty,Product_49,3,14001,42003,UPI,Cancelled,Not Delivered,India,Indore
+A1125,1/12/2023,C132,Male,43,Home & Kitchen,Product_62,2,16597,33194,UPI,Returned,Not Delivered,India,Pune
+A1126,9/11/2023,C924,Female,36,Electronics,Product_28,1,9519,9519,Card,Completed,Not Delivered,India,Jaipur
+A1127,1/24/2023,C423,Female,21,Clothing,Product_93,2,12291,24582,COD,Cancelled,Delivered,India,Chennai
+A1128,10/9/2023,C510,Female,57,Electronics,Product_33,3,15057,45171,UPI,Cancelled,Not Delivered,India,Jaipur
+A1129,3/15/2023,C374,Male,56,Home & Kitchen,Product_129,3,12280,36840,UPI,Completed,Delivered,India,Delhi
+A1130,8/31/2023,C167,Female,27,Clothing,Product_84,3,11213,33639,COD,Cancelled,Delivered,India,Chennai
+A1131,6/3/2023,C316,Female,50,Home & Kitchen,Product_182,3,24526,73578,COD,Cancelled,Not Delivered,India,Pune
+A1132,12/11/2023,C680,Male,44,Beauty,Product_186,2,11154,22308,COD,Returned,Delivered,India,Indore
+A1133,10/24/2023,C997,Male,21,Home & Kitchen,Product_44,2,21782,43564,COD,Returned,Not Delivered,India,Delhi
+A1134,1/17/2023,C835,Male,30,Electronics,Product_113,3,8236,24708,Card,Cancelled,Delivered,India,Chennai
+A1135,7/30/2023,C422,Female,21,Clothing,Product_133,3,6981,20943,UPI,Returned,Not Delivered,India,Indore
+A1136,6/10/2023,C317,Male,47,Beauty,Product_140,3,12647,37941,Card,Returned,Not Delivered,India,Indore
+A1137,5/23/2023,C771,Female,32,Beauty,Product_198,1,8377,8377,Card,Returned,Delivered,India,Indore
+A1138,6/28/2023,C611,Female,36,Electronics,Product_147,2,16022,32044,COD,Returned,Not Delivered,India,Chennai
+A1139,5/29/2023,C505,Male,36,Electronics,Product_89,2,5099,10198,Card,Returned,Not Delivered,India,Indore
+A1140,10/3/2023,C758,Female,53,Beauty,Product_36,1,6921,6921,UPI,Returned,Delivered,India,Bangalore
+A1141,9/29/2023,C569,Male,58,Clothing,Product_14,1,22249,22249,UPI,Cancelled,Not Delivered,India,Indore
+A1142,3/12/2023,C246,Male,53,Clothing,Product_105,1,22621,22621,COD,Cancelled,Not Delivered,India,Bangalore
+A1143,5/27/2023,C371,Male,23,Clothing,Product_137,2,10824,21648,COD,Returned,Delivered,India,Delhi
+A1144,1/19/2023,C242,Female,49,Clothing,Product_192,2,6060,12120,Card,Completed,Delivered,India,Hyderabad
+A1145,2/24/2023,C352,Female,36,Home & Kitchen,Product_165,3,20051,60153,COD,Returned,Not Delivered,India,Delhi
+A1146,5/20/2023,C862,Male,25,Beauty,Product_42,3,15636,46908,COD,Cancelled,Not Delivered,India,Delhi
+A1147,6/22/2023,C674,Female,54,Clothing,Product_45,1,24437,24437,COD,Returned,Not Delivered,India,Chennai
+A1148,2/14/2023,C651,Female,60,Electronics,Product_48,3,11045,33135,UPI,Cancelled,Not Delivered,India,Bangalore
+A1149,7/16/2023,C369,Male,46,Beauty,Product_85,1,8845,8845,Card,Returned,Delivered,India,Hyderabad
+A1150,12/21/2023,C864,Male,21,Electronics,Product_120,3,12081,36243,Card,Completed,Not Delivered,India,Hyderabad
+A1151,11/24/2023,C698,Female,41,Clothing,Product_57,3,4147,12441,UPI,Cancelled,Delivered,India,Indore
+A1152,7/11/2023,C538,Female,53,Home & Kitchen,Product_194,3,20148,60444,COD,Returned,Delivered,India,Bangalore
+A1153,2/11/2023,C697,Female,51,Beauty,Product_20,3,19823,59469,COD,Completed,Delivered,India,Bangalore
+A1154,3/18/2023,C508,Male,38,Home & Kitchen,Product_30,3,17885,53655,COD,Completed,Not Delivered,India,Mumbai
+A1155,1/29/2023,C470,Female,26,Home & Kitchen,Product_117,3,14897,44691,COD,Completed,Not Delivered,India,Hyderabad
+A1156,7/22/2023,C324,Female,18,Clothing,Product_149,3,1013,3039,UPI,Completed,Not Delivered,India,Jaipur
+A1157,10/5/2023,C241,Male,22,Home & Kitchen,Product_9,3,2389,7167,Card,Cancelled,Delivered,India,Delhi
+A1158,11/27/2023,C621,Female,41,Home & Kitchen,Product_115,3,24197,72591,Card,Cancelled,Delivered,India,Delhi
+A1159,3/2/2023,C605,Male,52,Home & Kitchen,Product_136,3,11695,35085,UPI,Returned,Delivered,India,Pune
+A1160,8/26/2023,C193,Female,52,Home & Kitchen,Product_59,1,10076,10076,UPI,Cancelled,Not Delivered,India,Delhi
+A1161,2/27/2023,C873,Male,60,Home & Kitchen,Product_158,2,6476,12952,UPI,Completed,Delivered,India,Mumbai
+A1162,1/18/2023,C148,Female,56,Electronics,Product_63,1,19762,19762,COD,Completed,Not Delivered,India,Indore
+A1163,4/22/2023,C981,Male,26,Beauty,Product_60,1,17986,17986,COD,Returned,Not Delivered,India,Jaipur
+A1164,3/15/2023,C212,Male,44,Beauty,Product_71,1,10188,10188,UPI,Returned,Delivered,India,Chennai
+A1165,1/25/2023,C256,Female,59,Home & Kitchen,Product_135,3,16540,49620,Card,Returned,Not Delivered,India,Chennai
+A1166,7/12/2023,C742,Male,52,Home & Kitchen,Product_62,1,10126,10126,UPI,Cancelled,Delivered,India,Indore
+A1167,7/31/2023,C263,Female,53,Clothing,Product_100,1,18728,18728,UPI,Cancelled,Delivered,India,Jaipur
+A1168,8/19/2023,C911,Female,23,Clothing,Product_14,3,2890,8670,Card,Cancelled,Delivered,India,Mumbai
+A1169,12/10/2023,C796,Male,48,Clothing,Product_86,1,19553,19553,Card,Completed,Delivered,India,Bangalore
+A1170,9/3/2023,C532,Male,56,Clothing,Product_102,3,4144,12432,UPI,Returned,Not Delivered,India,Hyderabad
+A1171,10/1/2023,C710,Female,37,Beauty,Product_93,2,15578,31156,COD,Cancelled,Not Delivered,India,Mumbai
+A1172,6/13/2023,C165,Male,41,Beauty,Product_106,3,15684,47052,UPI,Returned,Delivered,India,Delhi
+A1173,10/11/2023,C494,Female,36,Clothing,Product_51,1,8845,8845,Card,Completed,Not Delivered,India,Bangalore
+A1174,12/2/2023,C490,Female,34,Home & Kitchen,Product_186,2,18343,36686,COD,Returned,Not Delivered,India,Indore
+A1175,6/30/2023,C710,Male,26,Home & Kitchen,Product_48,1,24311,24311,COD,Returned,Delivered,India,Pune
+A1176,1/25/2023,C579,Male,44,Clothing,Product_162,1,22196,22196,UPI,Completed,Delivered,India,Pune
+A1177,8/22/2023,C641,Female,21,Home & Kitchen,Product_169,1,16871,16871,Card,Completed,Delivered,India,Chennai
+A1178,9/29/2023,C357,Female,52,Beauty,Product_5,1,848,848,COD,Returned,Not Delivered,India,Delhi
+A1179,9/26/2023,C666,Male,33,Clothing,Product_159,1,3456,3456,COD,Cancelled,Not Delivered,India,Hyderabad
+A1180,7/11/2023,C981,Female,47,Clothing,Product_179,2,2889,5778,UPI,Cancelled,Delivered,India,Pune
+A1181,7/14/2023,C111,Female,53,Home & Kitchen,Product_15,1,13580,13580,COD,Completed,Delivered,India,Mumbai
+A1182,11/27/2023,C796,Female,54,Electronics,Product_136,2,14518,29036,UPI,Completed,Delivered,India,Indore
+A1183,2/8/2023,C838,Female,52,Electronics,Product_46,2,1825,3650,Card,Completed,Delivered,India,Delhi
+A1184,2/9/2023,C217,Female,28,Clothing,Product_146,3,13351,40053,Card,Returned,Not Delivered,India,Chennai
+A1185,12/19/2023,C798,Male,50,Beauty,Product_14,3,4885,14655,UPI,Cancelled,Delivered,India,Mumbai
+A1186,11/11/2023,C649,Female,38,Electronics,Product_163,2,20130,40260,Card,Cancelled,Not Delivered,India,Bangalore
+A1187,7/12/2023,C868,Female,29,Home & Kitchen,Product_22,2,18421,36842,COD,Cancelled,Delivered,India,Mumbai
+A1188,3/20/2023,C373,Female,58,Clothing,Product_190,1,9080,9080,Card,Cancelled,Not Delivered,India,Mumbai
+A1189,6/7/2023,C887,Female,41,Beauty,Product_27,1,470,470,UPI,Completed,Delivered,India,Chennai
+A1190,10/12/2023,C756,Female,24,Electronics,Product_23,2,18551,37102,Card,Returned,Delivered,India,Jaipur
+A1191,5/30/2023,C448,Female,42,Electronics,Product_186,2,704,1408,COD,Completed,Delivered,India,Chennai
+A1192,5/18/2023,C214,Female,35,Home & Kitchen,Product_38,1,4849,4849,UPI,Completed,Not Delivered,India,Hyderabad
+A1193,9/5/2023,C400,Male,41,Beauty,Product_64,2,10122,20244,COD,Returned,Not Delivered,India,Bangalore
+A1194,3/11/2023,C545,Female,18,Home & Kitchen,Product_86,2,3805,7610,COD,Cancelled,Not Delivered,India,Indore
+A1195,11/30/2023,C261,Male,37,Beauty,Product_155,2,14410,28820,COD,Completed,Not Delivered,India,Jaipur
+A1196,6/13/2023,C564,Female,58,Home & Kitchen,Product_148,1,13349,13349,UPI,Cancelled,Not Delivered,India,Hyderabad
+A1197,2/28/2023,C103,Male,55,Clothing,Product_175,2,12260,24520,COD,Completed,Not Delivered,India,Bangalore
+A1198,12/21/2023,C839,Male,44,Home & Kitchen,Product_36,2,9846,19692,COD,Cancelled,Delivered,India,Hyderabad
+A1199,8/5/2023,C996,Female,22,Home & Kitchen,Product_154,3,5350,16050,Card,Returned,Not Delivered,India,Chennai
+A1200,7/4/2023,C836,Male,24,Clothing,Product_169,3,1504,4512,COD,Cancelled,Delivered,India,Pune
+A1201,12/13/2023,C369,Female,39,Home & Kitchen,Product_28,3,21436,64308,UPI,Completed,Not Delivered,India,Bangalore
+A1202,9/23/2023,C612,Male,46,Beauty,Product_101,3,24772,74316,Card,Returned,Delivered,India,Jaipur
+A1203,2/23/2023,C880,Female,44,Electronics,Product_30,1,16119,16119,COD,Completed,Not Delivered,India,Hyderabad
+A1204,4/16/2023,C282,Female,40,Home & Kitchen,Product_25,2,15220,30440,Card,Returned,Not Delivered,India,Jaipur
+A1205,1/23/2023,C619,Male,19,Beauty,Product_166,1,10139,10139,UPI,Returned,Delivered,India,Bangalore
+A1206,10/10/2023,C208,Male,39,Home & Kitchen,Product_119,3,6016,18048,UPI,Cancelled,Delivered,India,Delhi
+A1207,8/10/2023,C991,Female,19,Clothing,Product_116,3,21838,65514,COD,Cancelled,Not Delivered,India,Pune
+A1208,4/16/2023,C740,Female,22,Electronics,Product_138,3,7338,22014,UPI,Cancelled,Not Delivered,India,Bangalore
+A1209,5/15/2023,C405,Female,51,Beauty,Product_153,2,4034,8068,Card,Returned,Not Delivered,India,Mumbai
+A1210,8/23/2023,C961,Male,37,Electronics,Product_173,2,11833,23666,UPI,Cancelled,Delivered,India,Bangalore
+A1211,4/4/2023,C754,Female,27,Home & Kitchen,Product_108,2,4132,8264,COD,Completed,Not Delivered,India,Chennai
+A1212,11/22/2023,C619,Male,53,Clothing,Product_126,1,16247,16247,Card,Completed,Delivered,India,Jaipur
+A1213,1/28/2023,C723,Female,18,Home & Kitchen,Product_35,2,20596,41192,UPI,Cancelled,Not Delivered,India,Chennai
+A1214,8/1/2023,C303,Female,49,Clothing,Product_22,3,16412,49236,COD,Completed,Delivered,India,Hyderabad
+A1215,4/26/2023,C256,Female,28,Home & Kitchen,Product_145,1,9306,9306,COD,Cancelled,Delivered,India,Mumbai
+A1216,7/7/2023,C482,Male,46,Clothing,Product_109,2,18096,36192,UPI,Returned,Delivered,India,Hyderabad
+A1217,5/15/2023,C880,Female,23,Home & Kitchen,Product_31,1,15036,15036,UPI,Completed,Not Delivered,India,Chennai
+A1218,3/13/2023,C265,Male,31,Electronics,Product_146,1,20490,20490,Card,Returned,Not Delivered,India,Delhi
+A1219,5/30/2023,C652,Female,54,Beauty,Product_132,2,23370,46740,COD,Completed,Delivered,India,Chennai
+A1220,12/2/2023,C897,Male,26,Clothing,Product_38,1,9387,9387,COD,Cancelled,Delivered,India,Chennai
+A1221,10/23/2023,C643,Female,58,Home & Kitchen,Product_97,2,4958,9916,Card,Completed,Delivered,India,Chennai
+A1222,5/23/2023,C100,Female,47,Home & Kitchen,Product_84,3,24869,74607,COD,Completed,Delivered,India,Indore
+A1223,12/24/2023,C713,Female,22,Home & Kitchen,Product_56,3,22062,66186,Card,Completed,Not Delivered,India,Hyderabad
+A1224,6/22/2023,C431,Male,54,Home & Kitchen,Product_88,2,9592,19184,COD,Completed,Delivered,India,Mumbai
+A1225,1/9/2023,C600,Male,28,Home & Kitchen,Product_117,3,15359,46077,UPI,Cancelled,Delivered,India,Delhi
+A1226,3/23/2023,C119,Female,23,Beauty,Product_65,3,10191,30573,UPI,Cancelled,Delivered,India,Pune
+A1227,6/6/2023,C214,Male,45,Electronics,Product_181,2,20799,41598,UPI,Completed,Delivered,India,Indore
+A1228,10/31/2023,C471,Male,51,Home & Kitchen,Product_3,1,4648,4648,UPI,Returned,Not Delivered,India,Mumbai
+A1229,3/9/2023,C999,Female,22,Clothing,Product_99,2,23042,46084,UPI,Returned,Delivered,India,Mumbai
+A1230,6/3/2023,C951,Male,42,Clothing,Product_165,2,12344,24688,COD,Completed,Delivered,India,Pune
+A1231,3/26/2023,C926,Female,40,Clothing,Product_161,3,21599,64797,COD,Completed,Not Delivered,India,Indore
+A1232,2/21/2023,C414,Male,25,Home & Kitchen,Product_90,1,3140,3140,Card,Cancelled,Delivered,India,Bangalore
+A1233,2/13/2023,C345,Male,53,Beauty,Product_200,2,21422,42844,COD,Completed,Not Delivered,India,Bangalore
+A1234,9/18/2023,C159,Male,43,Beauty,Product_166,3,20187,60561,UPI,Completed,Not Delivered,India,Chennai
+A1235,9/13/2023,C346,Male,51,Electronics,Product_93,1,8199,8199,Card,Completed,Not Delivered,India,Chennai
+A1236,12/16/2023,C999,Male,48,Electronics,Product_5,2,18203,36406,COD,Completed,Delivered,India,Hyderabad
+A1237,1/31/2023,C680,Female,50,Beauty,Product_161,1,1605,1605,COD,Returned,Not Delivered,India,Chennai
+A1238,2/12/2023,C180,Male,35,Electronics,Product_80,3,13481,40443,UPI,Returned,Delivered,India,Delhi
+A1239,7/20/2023,C187,Male,37,Home & Kitchen,Product_187,3,11006,33018,UPI,Completed,Delivered,India,Mumbai
+A1240,8/21/2023,C849,Male,37,Clothing,Product_31,2,4100,8200,UPI,Returned,Delivered,India,Pune
+A1241,6/27/2023,C597,Female,28,Beauty,Product_33,1,16566,16566,COD,Cancelled,Delivered,India,Pune
+A1242,5/20/2023,C935,Male,34,Electronics,Product_128,2,14368,28736,Card,Returned,Not Delivered,India,Pune
+A1243,3/27/2023,C170,Female,28,Beauty,Product_198,2,18875,37750,UPI,Returned,Delivered,India,Bangalore
+A1244,1/2/2023,C878,Male,18,Clothing,Product_12,3,16973,50919,Card,Cancelled,Not Delivered,India,Delhi
+A1245,10/11/2023,C645,Female,32,Beauty,Product_64,1,1458,1458,Card,Returned,Not Delivered,India,Hyderabad
+A1246,7/10/2023,C884,Male,50,Electronics,Product_46,1,19028,19028,UPI,Returned,Delivered,India,Chennai
+A1247,5/25/2023,C228,Female,38,Electronics,Product_142,1,15540,15540,Card,Completed,Not Delivered,India,Bangalore
+A1248,6/5/2023,C231,Male,47,Beauty,Product_152,2,18774,37548,Card,Completed,Delivered,India,Delhi
+A1249,1/13/2023,C775,Male,52,Beauty,Product_163,1,13736,13736,COD,Completed,Not Delivered,India,Pune
+A1250,6/7/2023,C586,Male,31,Clothing,Product_108,3,12629,37887,Card,Completed,Delivered,India,Hyderabad
+A1251,4/29/2023,C662,Female,41,Home & Kitchen,Product_192,1,1738,1738,UPI,Returned,Delivered,India,Delhi
+A1252,2/8/2023,C269,Male,45,Clothing,Product_61,3,13222,39666,Card,Cancelled,Not Delivered,India,Chennai
+A1253,6/17/2023,C371,Female,46,Beauty,Product_60,3,24396,73188,UPI,Completed,Delivered,India,Mumbai
+A1254,3/26/2023,C640,Female,47,Beauty,Product_105,1,3762,3762,UPI,Returned,Not Delivered,India,Bangalore
+A1255,8/26/2023,C993,Female,25,Electronics,Product_41,2,10402,20804,COD,Cancelled,Delivered,India,Bangalore
+A1256,2/16/2023,C721,Male,40,Home & Kitchen,Product_132,2,5160,10320,UPI,Returned,Not Delivered,India,Hyderabad
+A1257,7/27/2023,C533,Female,53,Clothing,Product_25,1,1318,1318,Card,Completed,Delivered,India,Mumbai
+A1258,4/24/2023,C316,Male,30,Home & Kitchen,Product_96,1,2320,2320,COD,Returned,Delivered,India,Hyderabad
+A1259,2/3/2023,C652,Male,59,Home & Kitchen,Product_33,1,1014,1014,UPI,Cancelled,Delivered,India,Pune
+A1260,3/28/2023,C873,Female,43,Home & Kitchen,Product_8,2,1959,3918,Card,Returned,Not Delivered,India,Delhi
+A1261,4/6/2023,C847,Female,35,Home & Kitchen,Product_39,2,7335,14670,UPI,Returned,Delivered,India,Hyderabad
+A1262,10/9/2023,C806,Female,21,Electronics,Product_72,2,13800,27600,Card,Completed,Not Delivered,India,Bangalore
+A1263,5/8/2023,C305,Male,42,Beauty,Product_123,3,17529,52587,COD,Cancelled,Not Delivered,India,Jaipur
+A1264,4/3/2023,C830,Male,38,Clothing,Product_8,2,9161,18322,Card,Completed,Not Delivered,India,Jaipur
+A1265,3/23/2023,C419,Male,33,Clothing,Product_69,3,7927,23781,COD,Returned,Delivered,India,Bangalore
+A1266,7/1/2023,C508,Male,29,Clothing,Product_152,3,13027,39081,Card,Returned,Not Delivered,India,Pune
+A1267,6/30/2023,C787,Male,54,Clothing,Product_127,3,23255,69765,COD,Cancelled,Delivered,India,Indore
+A1268,1/29/2023,C765,Male,56,Clothing,Product_6,1,3257,3257,COD,Cancelled,Delivered,India,Jaipur
+A1269,3/8/2023,C482,Female,29,Beauty,Product_16,3,6901,20703,UPI,Completed,Delivered,India,Mumbai
+A1270,2/7/2023,C548,Female,60,Home & Kitchen,Product_151,3,12256,36768,UPI,Cancelled,Not Delivered,India,Jaipur
+A1271,8/12/2023,C629,Female,59,Beauty,Product_45,1,5461,5461,COD,Returned,Not Delivered,India,Bangalore
+A1272,3/31/2023,C562,Female,37,Beauty,Product_33,3,19598,58794,UPI,Returned,Delivered,India,Chennai
+A1273,4/4/2023,C223,Female,57,Clothing,Product_164,3,1361,4083,COD,Completed,Not Delivered,India,Delhi
+A1274,2/9/2023,C353,Male,40,Beauty,Product_43,2,24723,49446,COD,Completed,Not Delivered,India,Indore
+A1275,4/18/2023,C330,Male,22,Beauty,Product_66,1,8990,8990,UPI,Returned,Delivered,India,Pune
+A1276,8/3/2023,C165,Male,44,Home & Kitchen,Product_97,2,14659,29318,Card,Returned,Not Delivered,India,Mumbai
+A1277,11/30/2023,C446,Male,28,Home & Kitchen,Product_19,2,19241,38482,UPI,Cancelled,Delivered,India,Jaipur
+A1278,2/7/2023,C121,Female,28,Home & Kitchen,Product_42,2,3731,7462,COD,Completed,Delivered,India,Jaipur
+A1279,9/5/2023,C702,Male,45,Clothing,Product_156,3,20407,61221,Card,Completed,Delivered,India,Mumbai
+A1280,4/8/2023,C667,Female,53,Beauty,Product_170,2,7035,14070,Card,Cancelled,Delivered,India,Mumbai
+A1281,10/20/2023,C335,Female,27,Electronics,Product_93,1,13174,13174,UPI,Cancelled,Delivered,India,Hyderabad
+A1282,11/4/2023,C702,Female,30,Electronics,Product_7,3,20782,62346,UPI,Completed,Not Delivered,India,Mumbai
+A1283,6/7/2023,C325,Female,48,Home & Kitchen,Product_170,2,4084,8168,Card,Completed,Not Delivered,India,Delhi
+A1284,7/9/2023,C107,Male,46,Electronics,Product_68,2,12799,25598,Card,Cancelled,Not Delivered,India,Bangalore
+A1285,2/1/2023,C172,Male,60,Electronics,Product_22,2,18789,37578,COD,Cancelled,Not Delivered,India,Bangalore
+A1286,7/18/2023,C824,Female,52,Home & Kitchen,Product_147,3,2298,6894,UPI,Cancelled,Not Delivered,India,Mumbai
+A1287,1/18/2023,C746,Male,25,Home & Kitchen,Product_45,2,23706,47412,UPI,Completed,Delivered,India,Delhi
+A1288,2/10/2023,C160,Female,30,Clothing,Product_153,1,14173,14173,Card,Cancelled,Delivered,India,Mumbai
+A1289,7/23/2023,C334,Female,35,Home & Kitchen,Product_4,2,18530,37060,COD,Returned,Not Delivered,India,Mumbai
+A1290,3/17/2023,C169,Male,24,Electronics,Product_74,2,5203,10406,COD,Cancelled,Not Delivered,India,Hyderabad
+A1291,9/6/2023,C132,Female,20,Clothing,Product_71,2,21756,43512,Card,Completed,Not Delivered,India,Pune
+A1292,12/20/2023,C980,Male,21,Home & Kitchen,Product_69,2,11162,22324,Card,Completed,Not Delivered,India,Hyderabad
+A1293,9/9/2023,C438,Male,32,Clothing,Product_77,2,9486,18972,COD,Cancelled,Not Delivered,India,Hyderabad
+A1294,11/6/2023,C172,Male,30,Home & Kitchen,Product_55,3,13956,41868,Card,Returned,Not Delivered,India,Jaipur
+A1295,3/23/2023,C626,Male,37,Home & Kitchen,Product_35,1,17184,17184,COD,Returned,Delivered,India,Delhi
+A1296,1/30/2023,C343,Male,20,Home & Kitchen,Product_13,1,6877,6877,Card,Returned,Delivered,India,Hyderabad
+A1297,9/16/2023,C385,Female,58,Electronics,Product_175,2,15511,31022,UPI,Completed,Not Delivered,India,Indore
+A1298,4/1/2023,C785,Female,55,Beauty,Product_89,3,14917,44751,UPI,Cancelled,Delivered,India,Hyderabad
+A1299,1/26/2023,C597,Male,54,Clothing,Product_57,1,12966,12966,COD,Completed,Delivered,India,Hyderabad
+A1300,9/20/2023,C319,Male,18,Home & Kitchen,Product_34,3,13718,41154,COD,Completed,Delivered,India,Bangalore
+A1301,6/6/2023,C652,Female,45,Home & Kitchen,Product_90,2,20234,40468,Card,Cancelled,Delivered,India,Indore
+A1302,9/24/2023,C235,Female,55,Electronics,Product_2,2,22490,44980,COD,Returned,Not Delivered,India,Hyderabad
+A1303,2/25/2023,C840,Female,22,Beauty,Product_71,2,22726,45452,COD,Cancelled,Not Delivered,India,Hyderabad
+A1304,11/30/2023,C684,Female,30,Clothing,Product_133,3,23601,70803,UPI,Completed,Not Delivered,India,Jaipur
+A1305,1/14/2023,C690,Female,36,Beauty,Product_108,3,4885,14655,Card,Cancelled,Delivered,India,Bangalore
+A1306,4/24/2023,C584,Female,60,Beauty,Product_130,2,24107,48214,Card,Completed,Delivered,India,Hyderabad
+A1307,3/7/2023,C348,Female,53,Clothing,Product_175,1,15726,15726,Card,Returned,Delivered,India,Bangalore
+A1308,6/7/2023,C903,Female,39,Beauty,Product_67,2,7618,15236,COD,Cancelled,Not Delivered,India,Mumbai
+A1309,11/21/2023,C584,Male,48,Clothing,Product_129,2,2058,4116,UPI,Returned,Not Delivered,India,Hyderabad
+A1310,3/19/2023,C926,Male,30,Beauty,Product_105,2,2071,4142,COD,Cancelled,Delivered,India,Jaipur
+A1311,2/11/2023,C516,Female,39,Clothing,Product_81,3,6209,18627,COD,Completed,Delivered,India,Indore
+A1312,3/28/2023,C294,Male,49,Electronics,Product_34,2,7161,14322,COD,Cancelled,Not Delivered,India,Chennai
+A1313,7/16/2023,C196,Male,20,Clothing,Product_188,2,15943,31886,Card,Completed,Not Delivered,India,Bangalore
+A1314,1/3/2023,C199,Male,32,Beauty,Product_80,1,22475,22475,UPI,Completed,Not Delivered,India,Hyderabad
+A1315,1/24/2023,C774,Female,36,Home & Kitchen,Product_187,1,2439,2439,COD,Returned,Not Delivered,India,Chennai
+A1316,6/25/2023,C541,Female,40,Clothing,Product_43,3,4684,14052,Card,Completed,Delivered,India,Bangalore
+A1317,4/19/2023,C462,Male,55,Clothing,Product_32,3,4599,13797,Card,Returned,Delivered,India,Chennai
+A1318,10/1/2023,C533,Male,56,Electronics,Product_170,3,8681,26043,UPI,Returned,Delivered,India,Pune
+A1319,8/2/2023,C520,Female,42,Electronics,Product_141,3,4094,12282,Card,Cancelled,Delivered,India,Bangalore
+A1320,11/19/2023,C578,Male,37,Home & Kitchen,Product_170,3,22770,68310,UPI,Returned,Not Delivered,India,Delhi
+A1321,9/19/2023,C984,Male,36,Electronics,Product_28,2,3737,7474,Card,Completed,Delivered,India,Hyderabad
+A1322,7/3/2023,C846,Female,36,Clothing,Product_11,3,6908,20724,COD,Cancelled,Delivered,India,Indore
+A1323,1/2/2023,C155,Male,60,Electronics,Product_29,2,7984,15968,COD,Returned,Not Delivered,India,Delhi
+A1324,2/8/2023,C789,Male,34,Clothing,Product_117,1,17067,17067,Card,Cancelled,Not Delivered,India,Pune
+A1325,1/21/2023,C769,Female,41,Beauty,Product_110,1,6024,6024,COD,Completed,Delivered,India,Pune
+A1326,12/6/2023,C761,Male,39,Beauty,Product_113,1,4834,4834,COD,Cancelled,Delivered,India,Jaipur
+A1327,2/28/2023,C200,Female,43,Home & Kitchen,Product_70,2,6292,12584,Card,Returned,Not Delivered,India,Chennai
+A1328,2/27/2023,C162,Male,21,Clothing,Product_27,3,5765,17295,Card,Returned,Not Delivered,India,Indore
+A1329,7/14/2023,C512,Female,57,Electronics,Product_176,1,20331,20331,COD,Completed,Not Delivered,India,Indore
+A1330,8/14/2023,C845,Male,22,Beauty,Product_168,1,13776,13776,Card,Completed,Delivered,India,Jaipur
+A1331,12/19/2023,C447,Male,45,Clothing,Product_124,3,17441,52323,Card,Returned,Not Delivered,India,Delhi
+A1332,1/28/2023,C919,Male,59,Clothing,Product_130,3,20383,61149,Card,Cancelled,Delivered,India,Mumbai
+A1333,5/4/2023,C982,Female,35,Electronics,Product_130,2,10806,21612,UPI,Returned,Not Delivered,India,Chennai
+A1334,8/24/2023,C211,Female,54,Home & Kitchen,Product_23,1,2883,2883,Card,Cancelled,Not Delivered,India,Mumbai
+A1335,12/1/2023,C354,Male,24,Home & Kitchen,Product_106,2,24719,49438,UPI,Returned,Delivered,India,Mumbai
+A1336,11/23/2023,C296,Female,50,Clothing,Product_168,3,20585,61755,COD,Cancelled,Not Delivered,India,Jaipur
+A1337,8/21/2023,C294,Female,53,Home & Kitchen,Product_184,1,7604,7604,COD,Cancelled,Not Delivered,India,Mumbai
+A1338,4/24/2023,C649,Male,39,Beauty,Product_163,1,21891,21891,Card,Returned,Not Delivered,India,Mumbai
+A1339,9/10/2023,C559,Male,44,Electronics,Product_66,1,5679,5679,COD,Completed,Delivered,India,Mumbai
+A1340,8/23/2023,C243,Male,39,Electronics,Product_194,2,7364,14728,Card,Completed,Delivered,India,Indore
+A1341,10/29/2023,C532,Male,49,Electronics,Product_136,2,21876,43752,COD,Completed,Not Delivered,India,Indore
+A1342,12/21/2023,C287,Male,26,Electronics,Product_100,3,6106,18318,COD,Returned,Not Delivered,India,Chennai
+A1343,12/21/2023,C385,Male,35,Home & Kitchen,Product_88,2,20255,40510,Card,Cancelled,Delivered,India,Delhi
+A1344,12/25/2023,C573,Female,53,Beauty,Product_183,2,20043,40086,COD,Returned,Delivered,India,Bangalore
+A1345,5/29/2023,C355,Female,26,Clothing,Product_129,1,20752,20752,COD,Returned,Not Delivered,India,Mumbai
+A1346,9/3/2023,C995,Female,52,Beauty,Product_109,2,18724,37448,UPI,Returned,Delivered,India,Pune
+A1347,1/28/2023,C177,Male,30,Beauty,Product_193,2,5062,10124,UPI,Cancelled,Not Delivered,India,Delhi
+A1348,6/1/2023,C553,Male,52,Electronics,Product_92,1,22929,22929,Card,Completed,Delivered,India,Chennai
+A1349,12/23/2023,C927,Female,60,Electronics,Product_98,1,17041,17041,Card,Cancelled,Not Delivered,India,Pune
+A1350,5/9/2023,C982,Male,57,Home & Kitchen,Product_58,1,24668,24668,COD,Returned,Not Delivered,India,Bangalore
+A1351,5/31/2023,C976,Female,29,Electronics,Product_48,3,6640,19920,UPI,Returned,Delivered,India,Chennai
+A1352,5/23/2023,C663,Female,26,Clothing,Product_150,1,14341,14341,Card,Completed,Not Delivered,India,Indore
+A1353,1/21/2023,C200,Male,38,Electronics,Product_199,3,5372,16116,COD,Returned,Not Delivered,India,Indore
+A1354,7/3/2023,C151,Male,38,Clothing,Product_48,3,18327,54981,COD,Completed,Delivered,India,Chennai
+A1355,7/26/2023,C767,Male,40,Clothing,Product_55,3,17897,53691,COD,Cancelled,Not Delivered,India,Jaipur
+A1356,11/13/2023,C653,Female,53,Electronics,Product_30,2,7458,14916,COD,Cancelled,Not Delivered,India,Bangalore
+A1357,11/15/2023,C956,Male,20,Beauty,Product_98,3,20409,61227,UPI,Cancelled,Not Delivered,India,Hyderabad
+A1358,7/11/2023,C115,Female,49,Electronics,Product_76,1,17236,17236,COD,Completed,Not Delivered,India,Mumbai
+A1359,10/3/2023,C195,Male,58,Electronics,Product_54,1,5785,5785,COD,Returned,Delivered,India,Chennai
+A1360,10/3/2023,C871,Female,59,Electronics,Product_192,1,7036,7036,COD,Completed,Delivered,India,Indore
+A1361,1/20/2023,C969,Male,22,Electronics,Product_46,3,11169,33507,Card,Returned,Delivered,India,Bangalore
+A1362,7/18/2023,C342,Female,58,Home & Kitchen,Product_111,2,13657,27314,Card,Completed,Not Delivered,India,Mumbai
+A1363,11/25/2023,C270,Male,55,Electronics,Product_180,3,493,1479,UPI,Cancelled,Delivered,India,Hyderabad
+A1364,11/7/2023,C516,Male,36,Home & Kitchen,Product_98,3,10174,30522,Card,Returned,Delivered,India,Indore
+A1365,4/23/2023,C597,Male,43,Beauty,Product_163,1,17780,17780,UPI,Cancelled,Not Delivered,India,Pune
+A1366,3/14/2023,C592,Male,20,Electronics,Product_147,3,18488,55464,COD,Cancelled,Delivered,India,Hyderabad
+A1367,6/26/2023,C318,Male,44,Clothing,Product_42,1,24820,24820,UPI,Completed,Not Delivered,India,Bangalore
+A1368,12/10/2023,C985,Male,53,Home & Kitchen,Product_166,1,6242,6242,COD,Completed,Not Delivered,India,Mumbai
+A1369,4/12/2023,C510,Female,39,Beauty,Product_33,2,3517,7034,COD,Returned,Delivered,India,Mumbai
+A1370,2/5/2023,C160,Male,38,Home & Kitchen,Product_116,2,20600,41200,Card,Returned,Not Delivered,India,Delhi
+A1371,7/6/2023,C268,Female,45,Clothing,Product_2,3,18874,56622,Card,Completed,Delivered,India,Chennai
+A1372,3/10/2023,C488,Female,48,Home & Kitchen,Product_115,2,12079,24158,Card,Cancelled,Not Delivered,India,Mumbai
+A1373,11/7/2023,C102,Male,35,Clothing,Product_138,1,21453,21453,UPI,Cancelled,Delivered,India,Mumbai
+A1374,11/20/2023,C499,Male,55,Home & Kitchen,Product_197,1,16919,16919,COD,Completed,Delivered,India,Hyderabad
+A1375,8/30/2023,C371,Male,41,Home & Kitchen,Product_58,3,17984,53952,COD,Returned,Not Delivered,India,Delhi
+A1376,9/19/2023,C902,Male,43,Beauty,Product_129,2,16720,33440,UPI,Returned,Delivered,India,Delhi
+A1377,8/17/2023,C903,Male,29,Clothing,Product_189,3,4899,14697,COD,Cancelled,Not Delivered,India,Pune
+A1378,4/29/2023,C565,Male,34,Beauty,Product_60,1,16279,16279,UPI,Returned,Delivered,India,Jaipur
+A1379,8/21/2023,C392,Male,20,Beauty,Product_27,2,15690,31380,COD,Returned,Not Delivered,India,Hyderabad
+A1380,10/19/2023,C533,Male,42,Home & Kitchen,Product_94,3,18137,54411,COD,Returned,Delivered,India,Hyderabad
+A1381,9/22/2023,C813,Female,40,Beauty,Product_125,2,7603,15206,Card,Returned,Delivered,India,Delhi
+A1382,4/28/2023,C848,Male,50,Beauty,Product_55,2,5726,11452,UPI,Completed,Delivered,India,Jaipur
+A1383,3/2/2023,C902,Male,44,Beauty,Product_185,3,23804,71412,UPI,Cancelled,Not Delivered,India,Indore
+A1384,3/24/2023,C669,Female,19,Clothing,Product_12,1,19659,19659,UPI,Returned,Delivered,India,Delhi
+A1385,1/21/2023,C777,Male,21,Clothing,Product_67,3,17098,51294,UPI,Returned,Not Delivered,India,Pune
+A1386,12/5/2023,C835,Female,23,Clothing,Product_115,3,24154,72462,COD,Cancelled,Not Delivered,India,Delhi
+A1387,11/4/2023,C598,Male,55,Clothing,Product_160,1,13760,13760,COD,Returned,Not Delivered,India,Delhi
+A1388,6/25/2023,C258,Female,56,Electronics,Product_59,3,22765,68295,Card,Cancelled,Delivered,India,Mumbai
+A1389,9/25/2023,C294,Female,27,Electronics,Product_46,1,6930,6930,Card,Returned,Delivered,India,Mumbai
+A1390,12/4/2023,C403,Male,56,Electronics,Product_199,1,16102,16102,COD,Returned,Not Delivered,India,Chennai
+A1391,12/24/2023,C322,Female,32,Home & Kitchen,Product_197,2,1723,3446,Card,Cancelled,Delivered,India,Chennai
+A1392,9/2/2023,C159,Male,23,Beauty,Product_154,1,8640,8640,COD,Cancelled,Not Delivered,India,Bangalore
+A1393,1/4/2023,C693,Male,51,Electronics,Product_97,1,23537,23537,COD,Completed,Not Delivered,India,Chennai
+A1394,3/21/2023,C853,Female,59,Beauty,Product_67,2,3792,7584,COD,Cancelled,Not Delivered,India,Hyderabad
+A1395,4/15/2023,C655,Female,53,Home & Kitchen,Product_46,3,13323,39969,Card,Returned,Not Delivered,India,Hyderabad
+A1396,6/26/2023,C162,Female,26,Electronics,Product_192,2,19228,38456,UPI,Cancelled,Delivered,India,Mumbai
+A1397,7/25/2023,C865,Female,53,Electronics,Product_42,1,16957,16957,Card,Returned,Delivered,India,Mumbai
+A1398,11/4/2023,C421,Female,23,Electronics,Product_68,1,15755,15755,UPI,Cancelled,Delivered,India,Pune
+A1399,7/25/2023,C158,Female,56,Electronics,Product_199,3,12893,38679,UPI,Returned,Not Delivered,India,Indore
+A1400,12/3/2023,C151,Female,30,Electronics,Product_154,1,6909,6909,COD,Returned,Delivered,India,Delhi
+A1401,7/4/2023,C698,Male,59,Electronics,Product_41,3,1481,4443,UPI,Cancelled,Not Delivered,India,Jaipur
+A1402,7/27/2023,C588,Male,51,Electronics,Product_189,3,13248,39744,COD,Completed,Delivered,India,Hyderabad
+A1403,10/26/2023,C614,Female,40,Beauty,Product_58,3,18621,55863,COD,Completed,Not Delivered,India,Chennai
+A1404,5/14/2023,C973,Male,44,Electronics,Product_144,3,452,1356,UPI,Returned,Not Delivered,India,Jaipur
+A1405,5/12/2023,C643,Female,46,Home & Kitchen,Product_145,1,17119,17119,Card,Completed,Not Delivered,India,Indore
+A1406,10/28/2023,C261,Male,48,Electronics,Product_67,3,15396,46188,UPI,Cancelled,Delivered,India,Bangalore
+A1407,6/30/2023,C158,Male,34,Clothing,Product_74,2,13814,27628,UPI,Cancelled,Not Delivered,India,Mumbai
+A1408,9/1/2023,C620,Female,40,Clothing,Product_147,3,6148,18444,Card,Completed,Delivered,India,Indore
+A1409,5/1/2023,C182,Male,34,Clothing,Product_59,3,6842,20526,UPI,Completed,Not Delivered,India,Delhi
+A1410,2/10/2023,C971,Female,57,Electronics,Product_196,1,4228,4228,COD,Completed,Not Delivered,India,Jaipur
+A1411,9/10/2023,C290,Female,49,Clothing,Product_196,3,10635,31905,COD,Cancelled,Not Delivered,India,Bangalore
+A1412,1/28/2023,C170,Female,48,Electronics,Product_129,3,4502,13506,Card,Cancelled,Delivered,India,Indore
+A1413,9/23/2023,C709,Female,38,Electronics,Product_4,1,23180,23180,COD,Completed,Not Delivered,India,Mumbai
+A1414,11/10/2023,C169,Female,29,Beauty,Product_61,2,12148,24296,Card,Cancelled,Not Delivered,India,Jaipur
+A1415,8/6/2023,C791,Male,44,Beauty,Product_94,1,16643,16643,Card,Cancelled,Not Delivered,India,Delhi
+A1416,10/22/2023,C982,Male,24,Beauty,Product_61,3,4597,13791,COD,Cancelled,Not Delivered,India,Bangalore
+A1417,3/18/2023,C340,Female,18,Clothing,Product_108,1,24500,24500,Card,Completed,Not Delivered,India,Indore
+A1418,10/15/2023,C513,Male,43,Electronics,Product_177,2,8523,17046,UPI,Completed,Delivered,India,Hyderabad
+A1419,2/19/2023,C222,Female,39,Beauty,Product_93,2,20939,41878,Card,Returned,Not Delivered,India,Jaipur
+A1420,3/4/2023,C683,Female,56,Clothing,Product_148,1,13792,13792,COD,Returned,Delivered,India,Hyderabad
+A1421,12/11/2023,C352,Female,46,Electronics,Product_98,2,10952,21904,COD,Cancelled,Not Delivered,India,Delhi
+A1422,6/22/2023,C692,Female,58,Home & Kitchen,Product_19,1,21290,21290,UPI,Completed,Not Delivered,India,Bangalore
+A1423,12/1/2023,C708,Female,35,Home & Kitchen,Product_70,2,10683,21366,Card,Cancelled,Not Delivered,India,Chennai
+A1424,1/12/2023,C140,Male,33,Beauty,Product_191,1,6325,6325,COD,Returned,Delivered,India,Bangalore
+A1425,2/22/2023,C734,Male,22,Home & Kitchen,Product_141,1,13310,13310,UPI,Completed,Not Delivered,India,Mumbai
+A1426,11/13/2023,C183,Male,23,Home & Kitchen,Product_80,1,8900,8900,UPI,Completed,Not Delivered,India,Indore
+A1427,3/9/2023,C529,Male,19,Electronics,Product_170,3,4442,13326,Card,Cancelled,Not Delivered,India,Indore
+A1428,10/8/2023,C773,Female,26,Clothing,Product_152,3,9226,27678,COD,Cancelled,Not Delivered,India,Hyderabad
+A1429,10/4/2023,C697,Male,23,Home & Kitchen,Product_79,2,16082,32164,Card,Cancelled,Not Delivered,India,Delhi
+A1430,1/1/2023,C678,Male,40,Beauty,Product_121,2,645,1290,COD,Completed,Not Delivered,India,Indore
+A1431,8/9/2023,C635,Female,56,Clothing,Product_2,2,599,1198,COD,Cancelled,Delivered,India,Chennai
+A1432,7/22/2023,C423,Male,28,Home & Kitchen,Product_97,3,14623,43869,UPI,Cancelled,Delivered,India,Chennai
+A1433,9/22/2023,C367,Female,36,Beauty,Product_106,3,8149,24447,UPI,Completed,Delivered,India,Delhi
+A1434,11/23/2023,C309,Female,57,Home & Kitchen,Product_70,2,3916,7832,COD,Returned,Not Delivered,India,Bangalore
+A1435,3/19/2023,C785,Male,52,Electronics,Product_48,2,935,1870,UPI,Cancelled,Not Delivered,India,Delhi
+A1436,1/5/2023,C833,Male,23,Clothing,Product_4,3,14666,43998,Card,Completed,Not Delivered,India,Chennai
+A1437,7/10/2023,C421,Female,20,Beauty,Product_21,2,16631,33262,UPI,Completed,Not Delivered,India,Chennai
+A1438,8/29/2023,C344,Male,30,Beauty,Product_98,1,18099,18099,UPI,Completed,Delivered,India,Chennai
+A1439,1/18/2023,C371,Male,47,Electronics,Product_134,2,8399,16798,COD,Completed,Not Delivered,India,Chennai
+A1440,6/15/2023,C505,Male,58,Electronics,Product_191,3,10527,31581,COD,Returned,Delivered,India,Hyderabad
+A1441,6/2/2023,C234,Male,41,Electronics,Product_171,2,21223,42446,UPI,Completed,Delivered,India,Chennai
+A1442,3/27/2023,C787,Female,55,Electronics,Product_102,2,793,1586,UPI,Completed,Delivered,India,Indore
+A1443,3/21/2023,C760,Female,23,Clothing,Product_41,3,19836,59508,Card,Completed,Not Delivered,India,Pune
+A1444,11/27/2023,C407,Male,52,Electronics,Product_33,1,11949,11949,Card,Completed,Not Delivered,India,Jaipur
+A1445,4/9/2023,C568,Male,42,Beauty,Product_186,2,24325,48650,UPI,Cancelled,Delivered,India,Indore
+A1446,10/14/2023,C423,Female,52,Home & Kitchen,Product_49,3,14636,43908,COD,Completed,Not Delivered,India,Jaipur
+A1447,5/21/2023,C869,Male,22,Clothing,Product_116,3,15648,46944,Card,Cancelled,Not Delivered,India,Indore
+A1448,9/17/2023,C174,Female,29,Electronics,Product_159,1,21206,21206,Card,Returned,Delivered,India,Jaipur
+A1449,12/4/2023,C109,Female,30,Home & Kitchen,Product_197,3,2375,7125,COD,Completed,Not Delivered,India,Jaipur
+A1450,6/14/2023,C569,Male,24,Electronics,Product_12,2,21301,42602,UPI,Completed,Delivered,India,Bangalore
+A1451,4/9/2023,C736,Male,20,Home & Kitchen,Product_169,1,16204,16204,Card,Returned,Not Delivered,India,Pune
+A1452,11/7/2023,C676,Male,18,Clothing,Product_168,2,7532,15064,Card,Completed,Not Delivered,India,Pune
+A1453,8/1/2023,C202,Female,21,Beauty,Product_136,2,18585,37170,UPI,Returned,Delivered,India,Hyderabad
+A1454,9/23/2023,C175,Male,24,Clothing,Product_137,1,7374,7374,Card,Completed,Delivered,India,Bangalore
+A1455,4/2/2023,C650,Female,24,Beauty,Product_173,3,20790,62370,Card,Returned,Not Delivered,India,Mumbai
+A1456,10/9/2023,C318,Female,50,Beauty,Product_169,1,6211,6211,UPI,Returned,Not Delivered,India,Jaipur
+A1457,6/16/2023,C618,Female,44,Home & Kitchen,Product_186,2,18325,36650,Card,Returned,Delivered,India,Bangalore
+A1458,5/11/2023,C371,Female,46,Home & Kitchen,Product_102,2,18330,36660,UPI,Returned,Delivered,India,Hyderabad
+A1459,9/23/2023,C235,Male,37,Electronics,Product_77,3,834,2502,UPI,Completed,Not Delivered,India,Pune
+A1460,10/11/2023,C457,Male,24,Electronics,Product_118,3,9342,28026,Card,Completed,Delivered,India,Hyderabad
+A1461,5/8/2023,C170,Male,34,Beauty,Product_24,2,19376,38752,COD,Cancelled,Delivered,India,Mumbai
+A1462,9/5/2023,C350,Male,49,Electronics,Product_153,3,10939,32817,COD,Cancelled,Delivered,India,Chennai
+A1463,6/21/2023,C478,Female,45,Home & Kitchen,Product_31,1,2132,2132,UPI,Returned,Delivered,India,Chennai
+A1464,9/26/2023,C391,Male,38,Clothing,Product_84,1,10287,10287,COD,Returned,Delivered,India,Delhi
+A1465,7/21/2023,C261,Female,56,Electronics,Product_57,1,22373,22373,Card,Cancelled,Not Delivered,India,Delhi
+A1466,2/12/2023,C548,Female,54,Electronics,Product_141,1,11315,11315,Card,Cancelled,Delivered,India,Chennai
+A1467,12/24/2023,C953,Male,26,Home & Kitchen,Product_144,3,14537,43611,UPI,Cancelled,Not Delivered,India,Bangalore
+A1468,9/26/2023,C656,Male,33,Electronics,Product_69,3,20484,61452,Card,Cancelled,Delivered,India,Mumbai
+A1469,8/5/2023,C820,Female,40,Clothing,Product_83,3,13852,41556,Card,Returned,Delivered,India,Hyderabad
+A1470,11/12/2023,C409,Female,57,Clothing,Product_113,1,11759,11759,UPI,Completed,Delivered,India,Jaipur
+A1471,2/13/2023,C726,Male,21,Clothing,Product_159,1,24171,24171,UPI,Cancelled,Delivered,India,Jaipur
+A1472,6/6/2023,C926,Female,48,Electronics,Product_85,3,3946,11838,UPI,Returned,Delivered,India,Bangalore
+A1473,5/13/2023,C769,Female,57,Clothing,Product_178,3,17446,52338,COD,Returned,Delivered,India,Chennai
+A1474,9/27/2023,C641,Male,34,Clothing,Product_16,3,22042,66126,Card,Completed,Not Delivered,India,Pune
+A1475,1/5/2023,C108,Male,42,Beauty,Product_170,2,21755,43510,COD,Cancelled,Delivered,India,Pune
+A1476,7/17/2023,C783,Male,42,Electronics,Product_81,2,21579,43158,Card,Returned,Delivered,India,Delhi
+A1477,8/23/2023,C936,Male,20,Clothing,Product_136,1,16705,16705,Card,Cancelled,Not Delivered,India,Chennai
+A1478,1/10/2023,C667,Female,40,Beauty,Product_161,3,5444,16332,Card,Completed,Not Delivered,India,Pune
+A1479,7/18/2023,C406,Male,53,Beauty,Product_58,3,8743,26229,UPI,Cancelled,Not Delivered,India,Delhi
+A1480,7/15/2023,C779,Male,44,Clothing,Product_147,1,24217,24217,UPI,Cancelled,Not Delivered,India,Jaipur
+A1481,3/9/2023,C206,Male,59,Clothing,Product_149,2,18067,36134,COD,Returned,Delivered,India,Delhi
+A1482,12/28/2023,C999,Male,45,Clothing,Product_168,2,22861,45722,COD,Completed,Not Delivered,India,Mumbai
+A1483,3/2/2023,C237,Male,38,Clothing,Product_187,3,17764,53292,UPI,Cancelled,Not Delivered,India,Chennai
+A1484,11/23/2023,C370,Female,27,Clothing,Product_28,2,14816,29632,UPI,Completed,Delivered,India,Hyderabad
+A1485,11/10/2023,C218,Male,56,Clothing,Product_60,3,18880,56640,COD,Completed,Not Delivered,India,Mumbai
+A1486,3/10/2023,C209,Female,59,Beauty,Product_48,3,15917,47751,Card,Cancelled,Not Delivered,India,Delhi
+A1487,4/26/2023,C860,Male,44,Electronics,Product_70,1,6632,6632,Card,Completed,Delivered,India,Bangalore
+A1488,8/13/2023,C666,Female,38,Home & Kitchen,Product_64,1,6102,6102,Card,Cancelled,Delivered,India,Chennai
+A1489,7/21/2023,C259,Male,51,Electronics,Product_116,3,10553,31659,Card,Completed,Delivered,India,Chennai
+A1490,10/13/2023,C378,Female,51,Electronics,Product_49,3,1586,4758,Card,Cancelled,Not Delivered,India,Hyderabad
+A1491,3/27/2023,C388,Female,36,Electronics,Product_177,2,15417,30834,COD,Completed,Not Delivered,India,Indore
+A1492,9/14/2023,C719,Male,29,Clothing,Product_101,1,23979,23979,Card,Cancelled,Not Delivered,India,Pune
+A1493,10/30/2023,C315,Male,47,Electronics,Product_65,1,15166,15166,Card,Returned,Delivered,India,Mumbai
+A1494,12/28/2023,C834,Female,58,Beauty,Product_22,1,4040,4040,COD,Returned,Not Delivered,India,Delhi
+A1495,7/14/2023,C451,Male,28,Beauty,Product_145,2,18333,36666,COD,Completed,Delivered,India,Delhi
+A1496,1/27/2023,C308,Female,37,Beauty,Product_187,1,23632,23632,Card,Cancelled,Delivered,India,Mumbai
+A1497,1/2/2023,C803,Female,18,Home & Kitchen,Product_128,1,6947,6947,Card,Returned,Delivered,India,Indore
+A1498,10/29/2023,C749,Female,47,Home & Kitchen,Product_114,1,7406,7406,UPI,Returned,Delivered,India,Bangalore
+A1499,11/14/2023,C973,Male,21,Clothing,Product_38,3,9413,28239,UPI,Returned,Not Delivered,India,Pune
+A1500,12/8/2023,C370,Female,39,Electronics,Product_13,1,1362,1362,UPI,Cancelled,Delivered,India,Delhi
+A1501,11/9/2023,C617,Male,47,Beauty,Product_10,3,9618,28854,UPI,Cancelled,Not Delivered,India,Jaipur
+A1502,8/7/2023,C600,Male,36,Home & Kitchen,Product_35,2,2517,5034,UPI,Returned,Not Delivered,India,Jaipur
+A1503,9/26/2023,C357,Male,31,Electronics,Product_28,3,13858,41574,COD,Returned,Delivered,India,Indore
+A1504,11/6/2023,C966,Female,45,Beauty,Product_67,3,22865,68595,COD,Returned,Not Delivered,India,Delhi
+A1505,9/12/2023,C152,Female,49,Clothing,Product_157,3,18736,56208,UPI,Returned,Not Delivered,India,Bangalore
+A1506,1/13/2023,C194,Female,58,Electronics,Product_189,1,4173,4173,UPI,Returned,Not Delivered,India,Chennai
+A1507,6/29/2023,C749,Male,18,Clothing,Product_177,1,11237,11237,Card,Cancelled,Delivered,India,Hyderabad
+A1508,10/9/2023,C533,Female,18,Electronics,Product_176,2,16903,33806,Card,Cancelled,Not Delivered,India,Pune
+A1509,6/19/2023,C949,Female,48,Home & Kitchen,Product_10,1,6657,6657,COD,Completed,Not Delivered,India,Delhi
+A1510,10/2/2023,C383,Female,47,Home & Kitchen,Product_191,3,15393,46179,UPI,Returned,Not Delivered,India,Jaipur
+A1511,1/10/2023,C145,Male,54,Beauty,Product_91,3,17859,53577,UPI,Completed,Not Delivered,India,Pune
+A1512,11/17/2023,C103,Male,54,Home & Kitchen,Product_48,2,12595,25190,COD,Completed,Not Delivered,India,Jaipur
+A1513,5/20/2023,C441,Female,23,Home & Kitchen,Product_61,3,1336,4008,Card,Cancelled,Not Delivered,India,Bangalore
+A1514,3/31/2023,C889,Male,41,Electronics,Product_200,3,10206,30618,UPI,Completed,Not Delivered,India,Pune
+A1515,3/20/2023,C233,Male,39,Home & Kitchen,Product_188,2,16685,33370,COD,Cancelled,Not Delivered,India,Delhi
+A1516,12/13/2023,C752,Male,31,Electronics,Product_118,1,17213,17213,Card,Returned,Delivered,India,Pune
+A1517,12/18/2023,C368,Male,39,Home & Kitchen,Product_12,2,1742,3484,UPI,Returned,Not Delivered,India,Pune
+A1518,11/24/2023,C265,Male,38,Clothing,Product_50,3,10528,31584,Card,Cancelled,Not Delivered,India,Indore
+A1519,5/20/2023,C859,Male,28,Beauty,Product_30,3,4155,12465,UPI,Returned,Delivered,India,Bangalore
+A1520,10/9/2023,C552,Female,35,Clothing,Product_181,3,11779,35337,Card,Returned,Delivered,India,Delhi
+A1521,11/10/2023,C664,Female,52,Home & Kitchen,Product_13,1,10503,10503,UPI,Completed,Not Delivered,India,Pune
+A1522,1/28/2023,C822,Male,45,Home & Kitchen,Product_46,1,12869,12869,COD,Returned,Not Delivered,India,Jaipur
+A1523,4/12/2023,C537,Male,47,Clothing,Product_24,2,11189,22378,COD,Cancelled,Delivered,India,Indore
+A1524,11/26/2023,C674,Female,48,Clothing,Product_58,2,22728,45456,UPI,Returned,Not Delivered,India,Jaipur
+A1525,12/25/2023,C109,Female,38,Home & Kitchen,Product_125,2,6308,12616,UPI,Completed,Not Delivered,India,Mumbai
+A1526,8/25/2023,C214,Male,36,Beauty,Product_155,2,15984,31968,COD,Completed,Delivered,India,Chennai
+A1527,6/16/2023,C177,Male,37,Home & Kitchen,Product_103,3,3805,11415,COD,Cancelled,Delivered,India,Bangalore
+A1528,9/4/2023,C807,Female,22,Beauty,Product_54,3,5510,16530,COD,Returned,Not Delivered,India,Chennai
+A1529,10/6/2023,C252,Male,29,Electronics,Product_190,3,11513,34539,COD,Returned,Not Delivered,India,Mumbai
+A1530,8/26/2023,C658,Female,53,Electronics,Product_114,3,19832,59496,UPI,Cancelled,Not Delivered,India,Mumbai
+A1531,12/17/2023,C136,Female,38,Home & Kitchen,Product_166,3,3863,11589,COD,Completed,Delivered,India,Bangalore
+A1532,11/22/2023,C954,Male,27,Clothing,Product_116,1,19330,19330,COD,Cancelled,Not Delivered,India,Indore
+A1533,12/15/2023,C478,Female,37,Beauty,Product_112,1,7039,7039,COD,Cancelled,Delivered,India,Pune
+A1534,7/26/2023,C696,Male,36,Electronics,Product_95,3,17025,51075,COD,Completed,Delivered,India,Jaipur
+A1535,1/16/2023,C665,Male,45,Home & Kitchen,Product_161,1,9547,9547,Card,Returned,Not Delivered,India,Chennai
+A1536,10/7/2023,C251,Male,60,Clothing,Product_122,2,14560,29120,UPI,Completed,Not Delivered,India,Jaipur
+A1537,5/28/2023,C540,Male,26,Electronics,Product_19,2,5355,10710,COD,Completed,Delivered,India,Indore
+A1538,3/11/2023,C230,Male,26,Home & Kitchen,Product_117,3,14610,43830,COD,Returned,Not Delivered,India,Delhi
+A1539,8/6/2023,C142,Female,42,Beauty,Product_58,2,16992,33984,UPI,Cancelled,Delivered,India,Indore
+A1540,12/31/2023,C415,Female,44,Beauty,Product_9,3,8057,24171,UPI,Returned,Not Delivered,India,Jaipur
+A1541,9/4/2023,C473,Male,27,Beauty,Product_120,1,19314,19314,COD,Completed,Delivered,India,Bangalore
+A1542,12/6/2023,C915,Male,58,Beauty,Product_157,2,20965,41930,UPI,Cancelled,Delivered,India,Indore
+A1543,8/29/2023,C981,Female,44,Beauty,Product_76,2,17098,34196,Card,Completed,Delivered,India,Hyderabad
+A1544,5/14/2023,C140,Male,58,Home & Kitchen,Product_149,3,18771,56313,UPI,Returned,Delivered,India,Hyderabad
+A1545,1/14/2023,C466,Female,49,Electronics,Product_33,3,20757,62271,COD,Completed,Not Delivered,India,Hyderabad
+A1546,5/24/2023,C315,Female,34,Electronics,Product_190,1,20478,20478,UPI,Returned,Delivered,India,Delhi
+A1547,7/9/2023,C798,Male,34,Clothing,Product_125,3,14935,44805,UPI,Returned,Delivered,India,Jaipur
+A1548,11/1/2023,C355,Male,49,Home & Kitchen,Product_198,1,5053,5053,Card,Completed,Not Delivered,India,Delhi
+A1549,6/26/2023,C782,Male,59,Beauty,Product_194,1,19231,19231,UPI,Completed,Delivered,India,Indore
+A1550,6/4/2023,C205,Female,52,Clothing,Product_98,2,15905,31810,COD,Returned,Not Delivered,India,Indore
+A1551,9/29/2023,C462,Female,18,Beauty,Product_115,2,5056,10112,Card,Returned,Not Delivered,India,Pune
+A1552,11/23/2023,C898,Female,45,Beauty,Product_86,1,17709,17709,Card,Cancelled,Delivered,India,Hyderabad
+A1553,7/20/2023,C673,Female,33,Clothing,Product_134,3,19442,58326,Card,Returned,Delivered,India,Jaipur
+A1554,12/11/2023,C995,Male,22,Electronics,Product_106,3,646,1938,UPI,Returned,Delivered,India,Indore
+A1555,5/26/2023,C516,Female,30,Electronics,Product_7,2,7489,14978,COD,Completed,Delivered,India,Bangalore
+A1556,3/4/2023,C735,Male,23,Clothing,Product_97,3,21208,63624,COD,Returned,Delivered,India,Mumbai
+A1557,5/10/2023,C867,Female,47,Electronics,Product_164,3,6337,19011,Card,Cancelled,Not Delivered,India,Jaipur
+A1558,2/7/2023,C258,Female,21,Home & Kitchen,Product_100,2,5607,11214,Card,Completed,Not Delivered,India,Hyderabad
+A1559,2/5/2023,C342,Female,30,Home & Kitchen,Product_46,1,14736,14736,COD,Cancelled,Delivered,India,Delhi
+A1560,4/22/2023,C985,Male,46,Beauty,Product_27,3,14431,43293,UPI,Completed,Delivered,India,Hyderabad
+A1561,9/12/2023,C266,Male,59,Electronics,Product_10,2,914,1828,COD,Cancelled,Not Delivered,India,Delhi
+A1562,7/20/2023,C919,Male,50,Home & Kitchen,Product_123,3,11107,33321,Card,Cancelled,Delivered,India,Bangalore
+A1563,12/19/2023,C930,Female,25,Beauty,Product_86,1,12896,12896,COD,Cancelled,Not Delivered,India,Pune
+A1564,2/16/2023,C281,Female,52,Beauty,Product_21,3,21503,64509,Card,Cancelled,Delivered,India,Delhi
+A1565,7/16/2023,C522,Male,37,Home & Kitchen,Product_28,3,1588,4764,COD,Returned,Not Delivered,India,Indore
+A1566,8/13/2023,C125,Male,26,Electronics,Product_50,1,21035,21035,UPI,Returned,Delivered,India,Indore
+A1567,10/4/2023,C283,Female,49,Home & Kitchen,Product_5,2,2364,4728,UPI,Cancelled,Delivered,India,Jaipur
+A1568,7/27/2023,C854,Male,31,Home & Kitchen,Product_174,3,1702,5106,COD,Completed,Delivered,India,Mumbai
+A1569,3/14/2023,C440,Female,59,Electronics,Product_121,1,24399,24399,COD,Completed,Delivered,India,Delhi
+A1570,11/20/2023,C901,Male,37,Electronics,Product_117,1,5944,5944,COD,Completed,Delivered,India,Mumbai
+A1571,11/1/2023,C521,Male,22,Clothing,Product_110,1,16590,16590,Card,Returned,Not Delivered,India,Jaipur
+A1572,10/22/2023,C921,Male,38,Clothing,Product_196,1,22716,22716,UPI,Returned,Delivered,India,Jaipur
+A1573,5/21/2023,C785,Male,44,Clothing,Product_179,1,4256,4256,Card,Returned,Delivered,India,Indore
+A1574,1/21/2023,C984,Male,24,Home & Kitchen,Product_200,1,19370,19370,UPI,Completed,Not Delivered,India,Mumbai
+A1575,4/2/2023,C852,Male,59,Beauty,Product_107,1,536,536,COD,Cancelled,Delivered,India,Bangalore
+A1576,5/19/2023,C930,Female,44,Clothing,Product_45,1,21265,21265,COD,Returned,Delivered,India,Delhi
+A1577,11/10/2023,C354,Male,58,Beauty,Product_90,3,16680,50040,Card,Completed,Delivered,India,Bangalore
+A1578,2/18/2023,C373,Female,52,Clothing,Product_119,1,17673,17673,COD,Returned,Delivered,India,Hyderabad
+A1579,2/27/2023,C263,Male,48,Home & Kitchen,Product_46,1,6647,6647,UPI,Returned,Delivered,India,Pune
+A1580,5/26/2023,C906,Male,45,Beauty,Product_86,3,12233,36699,COD,Cancelled,Delivered,India,Mumbai
+A1581,10/3/2023,C818,Male,28,Electronics,Product_125,3,2018,6054,COD,Completed,Delivered,India,Bangalore
+A1582,10/31/2023,C210,Female,44,Clothing,Product_192,3,14875,44625,COD,Cancelled,Delivered,India,Mumbai
+A1583,2/20/2023,C491,Male,44,Clothing,Product_97,2,7763,15526,UPI,Completed,Not Delivered,India,Indore
+A1584,3/16/2023,C993,Male,57,Home & Kitchen,Product_46,1,14582,14582,Card,Cancelled,Delivered,India,Indore
+A1585,11/20/2023,C139,Female,35,Clothing,Product_86,3,6662,19986,UPI,Completed,Delivered,India,Hyderabad
+A1586,8/27/2023,C979,Female,44,Clothing,Product_195,1,3940,3940,Card,Completed,Not Delivered,India,Delhi
+A1587,3/29/2023,C581,Male,23,Home & Kitchen,Product_134,3,20338,61014,Card,Completed,Not Delivered,India,Indore
+A1588,8/8/2023,C327,Male,33,Beauty,Product_112,2,775,1550,COD,Completed,Delivered,India,Pune
+A1589,1/21/2023,C304,Female,50,Electronics,Product_109,2,1749,3498,COD,Cancelled,Not Delivered,India,Mumbai
+A1590,5/4/2023,C936,Male,53,Electronics,Product_178,2,16529,33058,COD,Cancelled,Delivered,India,Delhi
+A1591,5/3/2023,C571,Male,19,Home & Kitchen,Product_172,2,9992,19984,Card,Completed,Not Delivered,India,Pune
+A1592,3/12/2023,C458,Female,29,Beauty,Product_161,2,15496,30992,Card,Returned,Delivered,India,Mumbai
+A1593,6/20/2023,C412,Male,36,Home & Kitchen,Product_193,2,22934,45868,Card,Returned,Delivered,India,Mumbai
+A1594,1/29/2023,C940,Female,21,Electronics,Product_99,3,11300,33900,Card,Cancelled,Delivered,India,Jaipur
+A1595,11/28/2023,C914,Male,53,Clothing,Product_36,2,6043,12086,Card,Completed,Delivered,India,Indore
+A1596,10/25/2023,C992,Male,32,Beauty,Product_91,3,24950,74850,Card,Returned,Not Delivered,India,Hyderabad
+A1597,7/10/2023,C333,Female,46,Home & Kitchen,Product_129,1,2376,2376,COD,Completed,Not Delivered,India,Hyderabad
+A1598,7/8/2023,C328,Male,30,Home & Kitchen,Product_23,2,20647,41294,UPI,Cancelled,Delivered,India,Hyderabad
+A1599,3/26/2023,C124,Female,25,Clothing,Product_128,1,3883,3883,UPI,Completed,Delivered,India,Hyderabad
+A1600,10/5/2023,C775,Male,48,Beauty,Product_108,2,22660,45320,Card,Returned,Delivered,India,Hyderabad
+A1601,1/12/2023,C297,Male,51,Beauty,Product_106,1,2362,2362,COD,Cancelled,Not Delivered,India,Indore
+A1602,12/23/2023,C508,Female,47,Beauty,Product_146,3,22118,66354,UPI,Cancelled,Delivered,India,Hyderabad
+A1603,7/10/2023,C436,Female,21,Clothing,Product_91,1,16167,16167,Card,Cancelled,Delivered,India,Delhi
+A1604,5/27/2023,C385,Male,29,Clothing,Product_42,3,17841,53523,UPI,Completed,Delivered,India,Jaipur
+A1605,8/14/2023,C985,Female,41,Clothing,Product_53,3,4444,13332,COD,Returned,Delivered,India,Jaipur
+A1606,7/10/2023,C171,Female,52,Clothing,Product_137,2,5147,10294,Card,Completed,Delivered,India,Chennai
+A1607,8/23/2023,C891,Female,27,Electronics,Product_190,2,5063,10126,COD,Returned,Not Delivered,India,Hyderabad
+A1608,10/21/2023,C385,Male,54,Home & Kitchen,Product_87,2,9797,19594,COD,Completed,Not Delivered,India,Pune
+A1609,10/10/2023,C459,Male,37,Electronics,Product_103,1,22516,22516,COD,Completed,Not Delivered,India,Jaipur
+A1610,1/29/2023,C756,Male,55,Clothing,Product_197,1,10994,10994,Card,Completed,Delivered,India,Mumbai
+A1611,12/13/2023,C621,Male,50,Home & Kitchen,Product_50,3,14896,44688,Card,Cancelled,Delivered,India,Jaipur
+A1612,8/7/2023,C509,Female,42,Beauty,Product_4,2,5147,10294,Card,Cancelled,Not Delivered,India,Hyderabad
+A1613,2/14/2023,C795,Male,46,Home & Kitchen,Product_114,2,18683,37366,Card,Completed,Not Delivered,India,Chennai
+A1614,11/3/2023,C963,Male,27,Clothing,Product_78,1,19540,19540,Card,Returned,Not Delivered,India,Mumbai
+A1615,2/15/2023,C649,Male,44,Beauty,Product_107,3,12613,37839,UPI,Returned,Not Delivered,India,Delhi
+A1616,7/15/2023,C439,Female,53,Home & Kitchen,Product_11,1,6395,6395,Card,Returned,Not Delivered,India,Indore
+A1617,8/26/2023,C128,Male,19,Electronics,Product_40,3,24543,73629,Card,Cancelled,Not Delivered,India,Mumbai
+A1618,5/28/2023,C218,Female,29,Home & Kitchen,Product_177,3,22120,66360,COD,Completed,Delivered,India,Mumbai
+A1619,2/4/2023,C998,Female,55,Home & Kitchen,Product_145,2,16456,32912,Card,Cancelled,Not Delivered,India,Mumbai
+A1620,10/22/2023,C367,Male,34,Clothing,Product_149,2,17094,34188,UPI,Completed,Not Delivered,India,Indore
+A1621,7/2/2023,C282,Male,21,Beauty,Product_93,3,4739,14217,Card,Returned,Not Delivered,India,Pune
+A1622,9/29/2023,C694,Male,50,Clothing,Product_197,2,9857,19714,COD,Completed,Delivered,India,Delhi
+A1623,6/11/2023,C371,Female,35,Beauty,Product_25,3,10871,32613,COD,Returned,Not Delivered,India,Delhi
+A1624,9/23/2023,C139,Female,41,Home & Kitchen,Product_106,1,4787,4787,Card,Completed,Delivered,India,Bangalore
+A1625,4/24/2023,C211,Male,53,Electronics,Product_107,1,16794,16794,Card,Completed,Delivered,India,Delhi
+A1626,6/28/2023,C710,Female,41,Clothing,Product_114,1,16012,16012,COD,Returned,Not Delivered,India,Delhi
+A1627,1/15/2023,C544,Male,32,Clothing,Product_178,3,10283,30849,UPI,Returned,Delivered,India,Hyderabad
+A1628,3/8/2023,C453,Male,45,Electronics,Product_20,1,7176,7176,UPI,Cancelled,Not Delivered,India,Pune
+A1629,1/17/2023,C846,Male,48,Electronics,Product_65,1,3832,3832,UPI,Completed,Not Delivered,India,Pune
+A1630,11/5/2023,C905,Male,55,Clothing,Product_48,1,4356,4356,COD,Cancelled,Delivered,India,Mumbai
+A1631,5/23/2023,C421,Female,40,Clothing,Product_129,1,24751,24751,COD,Returned,Delivered,India,Mumbai
+A1632,1/8/2023,C546,Male,30,Beauty,Product_44,1,19244,19244,COD,Completed,Delivered,India,Bangalore
+A1633,9/1/2023,C720,Female,55,Clothing,Product_113,3,23491,70473,COD,Completed,Delivered,India,Jaipur
+A1634,4/20/2023,C623,Male,44,Electronics,Product_195,2,14196,28392,Card,Completed,Not Delivered,India,Mumbai
+A1635,9/11/2023,C218,Female,36,Electronics,Product_22,3,4753,14259,Card,Cancelled,Delivered,India,Chennai
+A1636,11/4/2023,C494,Female,46,Clothing,Product_142,2,15273,30546,Card,Cancelled,Not Delivered,India,Bangalore
+A1637,12/14/2023,C690,Female,29,Electronics,Product_173,1,15886,15886,Card,Returned,Delivered,India,Chennai
+A1638,12/4/2023,C294,Male,25,Clothing,Product_102,2,17426,34852,Card,Returned,Delivered,India,Delhi
+A1639,4/12/2023,C360,Female,30,Home & Kitchen,Product_32,1,12218,12218,UPI,Cancelled,Not Delivered,India,Hyderabad
+A1640,10/31/2023,C145,Female,59,Home & Kitchen,Product_92,3,19368,58104,Card,Returned,Not Delivered,India,Indore
+A1641,3/17/2023,C825,Female,24,Electronics,Product_65,3,9438,28314,Card,Cancelled,Delivered,India,Delhi
+A1642,1/28/2023,C546,Male,49,Electronics,Product_46,1,3563,3563,Card,Returned,Not Delivered,India,Delhi
+A1643,11/16/2023,C101,Male,22,Home & Kitchen,Product_120,2,20680,41360,UPI,Cancelled,Not Delivered,India,Indore
+A1644,10/5/2023,C632,Female,52,Electronics,Product_196,3,8874,26622,UPI,Cancelled,Delivered,India,Chennai
+A1645,7/12/2023,C925,Female,47,Electronics,Product_9,2,10607,21214,UPI,Returned,Not Delivered,India,Delhi
+A1646,3/10/2023,C651,Female,42,Home & Kitchen,Product_196,2,14412,28824,UPI,Returned,Not Delivered,India,Indore
+A1647,3/22/2023,C803,Male,43,Beauty,Product_127,2,18723,37446,COD,Cancelled,Not Delivered,India,Hyderabad
+A1648,1/15/2023,C836,Male,26,Beauty,Product_90,2,2312,4624,COD,Returned,Delivered,India,Jaipur
+A1649,8/8/2023,C859,Female,40,Home & Kitchen,Product_90,2,3489,6978,UPI,Returned,Delivered,India,Bangalore
+A1650,6/9/2023,C854,Male,22,Beauty,Product_30,1,21536,21536,Card,Completed,Delivered,India,Jaipur
+A1651,12/3/2023,C786,Female,54,Home & Kitchen,Product_69,1,15403,15403,UPI,Returned,Not Delivered,India,Pune
+A1652,10/20/2023,C301,Female,38,Electronics,Product_126,2,12677,25354,UPI,Returned,Delivered,India,Jaipur
+A1653,12/8/2023,C472,Female,28,Beauty,Product_94,2,16774,33548,Card,Completed,Not Delivered,India,Mumbai
+A1654,5/28/2023,C541,Female,21,Beauty,Product_147,3,7314,21942,Card,Completed,Delivered,India,Mumbai
+A1655,5/20/2023,C171,Male,54,Home & Kitchen,Product_110,3,11337,34011,UPI,Cancelled,Delivered,India,Hyderabad
+A1656,8/10/2023,C780,Female,30,Home & Kitchen,Product_103,3,10127,30381,Card,Returned,Not Delivered,India,Delhi
+A1657,12/27/2023,C438,Male,54,Home & Kitchen,Product_55,1,20873,20873,COD,Returned,Not Delivered,India,Hyderabad
+A1658,11/11/2023,C738,Female,54,Electronics,Product_134,3,17756,53268,UPI,Cancelled,Not Delivered,India,Delhi
+A1659,12/17/2023,C421,Female,45,Home & Kitchen,Product_82,1,5230,5230,UPI,Returned,Delivered,India,Chennai
+A1660,11/27/2023,C779,Male,34,Clothing,Product_104,2,9705,19410,UPI,Completed,Delivered,India,Bangalore
+A1661,6/8/2023,C968,Female,49,Home & Kitchen,Product_109,1,8347,8347,COD,Completed,Delivered,India,Delhi
+A1662,1/15/2023,C227,Female,35,Clothing,Product_165,2,4770,9540,UPI,Returned,Not Delivered,India,Pune
+A1663,6/10/2023,C837,Female,22,Home & Kitchen,Product_94,1,3050,3050,COD,Returned,Delivered,India,Chennai
+A1664,5/1/2023,C407,Male,54,Electronics,Product_134,3,4905,14715,COD,Returned,Not Delivered,India,Indore
+A1665,11/4/2023,C619,Male,38,Beauty,Product_150,1,8101,8101,COD,Cancelled,Delivered,India,Chennai
+A1666,2/24/2023,C416,Male,31,Beauty,Product_113,1,5027,5027,Card,Cancelled,Delivered,India,Indore
+A1667,12/25/2023,C782,Male,38,Home & Kitchen,Product_122,3,12578,37734,COD,Completed,Not Delivered,India,Delhi
+A1668,7/8/2023,C518,Female,19,Electronics,Product_190,2,15872,31744,COD,Completed,Delivered,India,Hyderabad
+A1669,6/8/2023,C434,Female,25,Clothing,Product_114,3,12905,38715,Card,Completed,Not Delivered,India,Hyderabad
+A1670,5/1/2023,C512,Female,31,Clothing,Product_113,2,3257,6514,COD,Cancelled,Not Delivered,India,Pune
+A1671,9/9/2023,C813,Female,44,Beauty,Product_184,2,2924,5848,Card,Completed,Delivered,India,Hyderabad
+A1672,6/30/2023,C402,Female,56,Beauty,Product_117,3,2474,7422,COD,Completed,Delivered,India,Delhi
+A1673,11/25/2023,C667,Male,18,Home & Kitchen,Product_52,3,14829,44487,COD,Cancelled,Not Delivered,India,Mumbai
+A1674,5/8/2023,C230,Male,56,Home & Kitchen,Product_82,1,5471,5471,Card,Cancelled,Delivered,India,Hyderabad
+A1675,10/31/2023,C296,Female,36,Clothing,Product_22,1,22826,22826,Card,Cancelled,Delivered,India,Chennai
+A1676,4/25/2023,C530,Male,19,Clothing,Product_23,2,18990,37980,Card,Completed,Not Delivered,India,Delhi
+A1677,11/13/2023,C780,Female,56,Beauty,Product_39,1,13441,13441,UPI,Cancelled,Delivered,India,Mumbai
+A1678,9/27/2023,C488,Female,47,Home & Kitchen,Product_31,1,23846,23846,UPI,Returned,Delivered,India,Bangalore
+A1679,9/11/2023,C793,Female,26,Home & Kitchen,Product_53,2,9735,19470,COD,Completed,Not Delivered,India,Bangalore
+A1680,7/29/2023,C866,Male,19,Beauty,Product_68,2,6210,12420,UPI,Returned,Not Delivered,India,Bangalore
+A1681,12/17/2023,C278,Female,23,Electronics,Product_121,2,19400,38800,UPI,Cancelled,Not Delivered,India,Bangalore
+A1682,12/29/2023,C730,Female,56,Beauty,Product_19,3,12866,38598,UPI,Returned,Delivered,India,Pune
+A1683,8/30/2023,C682,Female,56,Electronics,Product_2,2,7995,15990,Card,Returned,Not Delivered,India,Hyderabad
+A1684,7/9/2023,C408,Male,53,Electronics,Product_149,2,22295,44590,UPI,Cancelled,Delivered,India,Indore
+A1685,3/9/2023,C515,Male,38,Home & Kitchen,Product_37,2,15638,31276,Card,Completed,Not Delivered,India,Pune
+A1686,5/24/2023,C661,Female,45,Beauty,Product_68,1,16658,16658,COD,Cancelled,Not Delivered,India,Chennai
+A1687,9/9/2023,C953,Male,53,Home & Kitchen,Product_14,1,10639,10639,UPI,Completed,Delivered,India,Bangalore
+A1688,8/29/2023,C100,Female,28,Home & Kitchen,Product_112,1,1475,1475,UPI,Cancelled,Delivered,India,Indore
+A1689,10/15/2023,C411,Female,47,Home & Kitchen,Product_29,2,23533,47066,COD,Completed,Delivered,India,Jaipur
+A1690,5/26/2023,C393,Male,28,Beauty,Product_145,1,6975,6975,COD,Returned,Delivered,India,Pune
+A1691,4/3/2023,C315,Female,22,Clothing,Product_197,3,19003,57009,Card,Returned,Delivered,India,Jaipur
+A1692,12/15/2023,C540,Male,43,Beauty,Product_152,1,9615,9615,UPI,Cancelled,Delivered,India,Pune
+A1693,12/29/2023,C904,Female,47,Beauty,Product_153,1,15380,15380,COD,Completed,Not Delivered,India,Pune
+A1694,8/20/2023,C693,Female,54,Clothing,Product_55,3,20693,62079,UPI,Returned,Not Delivered,India,Jaipur
+A1695,2/6/2023,C721,Female,23,Home & Kitchen,Product_66,1,24672,24672,UPI,Completed,Not Delivered,India,Mumbai
+A1696,3/25/2023,C770,Female,43,Beauty,Product_166,1,7123,7123,COD,Completed,Delivered,India,Hyderabad
+A1697,6/8/2023,C429,Male,40,Electronics,Product_95,2,14467,28934,COD,Completed,Not Delivered,India,Indore
+A1698,5/18/2023,C576,Female,23,Home & Kitchen,Product_95,2,15911,31822,COD,Completed,Not Delivered,India,Chennai
+A1699,9/20/2023,C552,Female,47,Clothing,Product_166,1,1625,1625,COD,Returned,Delivered,India,Indore
+A1700,11/28/2023,C552,Male,36,Home & Kitchen,Product_112,3,20929,62787,UPI,Cancelled,Not Delivered,India,Delhi
+A1701,6/3/2023,C791,Male,51,Home & Kitchen,Product_76,1,22723,22723,COD,Completed,Delivered,India,Pune
+A1702,9/19/2023,C318,Female,44,Electronics,Product_119,3,3826,11478,COD,Returned,Not Delivered,India,Jaipur
+A1703,2/11/2023,C623,Male,25,Home & Kitchen,Product_46,2,19487,38974,UPI,Cancelled,Delivered,India,Mumbai
+A1704,6/2/2023,C584,Female,55,Home & Kitchen,Product_194,2,23381,46762,COD,Cancelled,Not Delivered,India,Jaipur
+A1705,4/5/2023,C912,Male,56,Beauty,Product_173,1,7216,7216,UPI,Cancelled,Delivered,India,Pune
+A1706,1/7/2023,C915,Male,59,Home & Kitchen,Product_118,2,4123,8246,COD,Cancelled,Not Delivered,India,Hyderabad
+A1707,7/4/2023,C853,Female,37,Electronics,Product_33,3,20509,61527,UPI,Completed,Delivered,India,Mumbai
+A1708,4/7/2023,C273,Male,31,Home & Kitchen,Product_167,1,23107,23107,UPI,Returned,Delivered,India,Chennai
+A1709,4/8/2023,C774,Male,37,Home & Kitchen,Product_38,3,17948,53844,Card,Cancelled,Delivered,India,Mumbai
+A1710,12/26/2023,C186,Female,49,Home & Kitchen,Product_6,1,5294,5294,Card,Returned,Delivered,India,Bangalore
+A1711,7/20/2023,C390,Male,39,Electronics,Product_27,2,18959,37918,COD,Returned,Not Delivered,India,Chennai
+A1712,10/24/2023,C627,Female,20,Home & Kitchen,Product_103,2,24452,48904,Card,Returned,Not Delivered,India,Bangalore
+A1713,9/28/2023,C779,Male,45,Beauty,Product_142,3,2289,6867,UPI,Cancelled,Not Delivered,India,Indore
+A1714,11/15/2023,C748,Female,46,Home & Kitchen,Product_6,1,16513,16513,UPI,Cancelled,Delivered,India,Indore
+A1715,4/29/2023,C734,Male,55,Beauty,Product_155,2,14656,29312,COD,Returned,Not Delivered,India,Delhi
+A1716,12/31/2023,C443,Female,44,Beauty,Product_121,2,23991,47982,UPI,Returned,Delivered,India,Hyderabad
+A1717,2/14/2023,C195,Female,26,Clothing,Product_52,3,24851,74553,UPI,Returned,Not Delivered,India,Mumbai
+A1718,6/5/2023,C938,Male,31,Electronics,Product_5,2,16478,32956,Card,Cancelled,Not Delivered,India,Delhi
+A1719,1/17/2023,C869,Male,39,Home & Kitchen,Product_30,1,16797,16797,COD,Completed,Delivered,India,Bangalore
+A1720,6/24/2023,C340,Female,20,Beauty,Product_39,2,8748,17496,COD,Returned,Delivered,India,Pune
+A1721,2/26/2023,C788,Male,57,Electronics,Product_144,2,15279,30558,UPI,Returned,Delivered,India,Delhi
+A1722,4/16/2023,C417,Female,28,Beauty,Product_182,3,4168,12504,Card,Returned,Not Delivered,India,Mumbai
+A1723,7/6/2023,C330,Female,26,Electronics,Product_52,1,21503,21503,Card,Cancelled,Delivered,India,Bangalore
+A1724,5/27/2023,C925,Male,23,Beauty,Product_96,2,11484,22968,COD,Cancelled,Not Delivered,India,Bangalore
+A1725,9/29/2023,C303,Female,32,Clothing,Product_110,1,24981,24981,Card,Cancelled,Not Delivered,India,Jaipur
+A1726,3/16/2023,C250,Male,51,Electronics,Product_22,1,14802,14802,Card,Cancelled,Not Delivered,India,Delhi
+A1727,7/21/2023,C125,Male,60,Clothing,Product_148,2,2314,4628,UPI,Returned,Not Delivered,India,Chennai
+A1728,12/25/2023,C147,Female,38,Beauty,Product_3,2,22610,45220,Card,Returned,Delivered,India,Chennai
+A1729,4/16/2023,C350,Female,40,Home & Kitchen,Product_199,2,21398,42796,UPI,Cancelled,Delivered,India,Pune
+A1730,7/19/2023,C586,Male,51,Beauty,Product_55,3,11260,33780,UPI,Returned,Not Delivered,India,Jaipur
+A1731,1/12/2023,C725,Male,52,Beauty,Product_62,3,5543,16629,Card,Returned,Not Delivered,India,Mumbai
+A1732,7/10/2023,C970,Female,58,Beauty,Product_32,3,2264,6792,UPI,Returned,Delivered,India,Indore
+A1733,1/3/2023,C886,Female,39,Clothing,Product_191,2,19057,38114,COD,Returned,Delivered,India,Jaipur
+A1734,12/8/2023,C174,Male,42,Clothing,Product_27,2,9623,19246,Card,Returned,Delivered,India,Jaipur
+A1735,3/17/2023,C566,Female,44,Electronics,Product_24,2,3510,7020,UPI,Cancelled,Delivered,India,Indore
+A1736,2/9/2023,C524,Female,51,Home & Kitchen,Product_151,1,14919,14919,COD,Returned,Not Delivered,India,Hyderabad
+A1737,11/22/2023,C744,Female,46,Home & Kitchen,Product_188,3,16645,49935,Card,Completed,Delivered,India,Delhi
+A1738,8/23/2023,C689,Male,50,Electronics,Product_178,2,23602,47204,UPI,Cancelled,Not Delivered,India,Pune
+A1739,10/14/2023,C299,Female,25,Home & Kitchen,Product_29,3,5439,16317,UPI,Cancelled,Not Delivered,India,Pune
+A1740,3/2/2023,C835,Female,37,Beauty,Product_78,3,5323,15969,Card,Cancelled,Delivered,India,Delhi
+A1741,8/4/2023,C813,Male,37,Beauty,Product_56,1,19620,19620,UPI,Returned,Not Delivered,India,Pune
+A1742,6/28/2023,C493,Male,20,Home & Kitchen,Product_124,1,18241,18241,COD,Cancelled,Not Delivered,India,Jaipur
+A1743,11/7/2023,C606,Male,26,Home & Kitchen,Product_195,2,15872,31744,Card,Returned,Not Delivered,India,Delhi
+A1744,2/15/2023,C509,Female,42,Clothing,Product_102,3,10956,32868,Card,Returned,Delivered,India,Indore
+A1745,11/27/2023,C349,Male,28,Electronics,Product_147,3,9389,28167,COD,Returned,Not Delivered,India,Mumbai
+A1746,2/13/2023,C251,Male,57,Electronics,Product_146,3,18628,55884,COD,Completed,Not Delivered,India,Pune
+A1747,9/30/2023,C771,Male,19,Beauty,Product_53,1,21869,21869,UPI,Returned,Not Delivered,India,Mumbai
+A1748,6/14/2023,C804,Female,55,Electronics,Product_126,3,20185,60555,UPI,Cancelled,Not Delivered,India,Delhi
+A1749,9/28/2023,C105,Female,42,Beauty,Product_24,2,1088,2176,UPI,Completed,Delivered,India,Hyderabad
+A1750,5/11/2023,C868,Male,27,Beauty,Product_105,1,6285,6285,COD,Completed,Delivered,India,Jaipur
+A1751,1/30/2023,C981,Female,42,Electronics,Product_82,1,1190,1190,UPI,Cancelled,Not Delivered,India,Hyderabad
+A1752,1/27/2023,C888,Male,33,Clothing,Product_127,2,4263,8526,COD,Returned,Not Delivered,India,Mumbai
+A1753,6/12/2023,C209,Female,53,Home & Kitchen,Product_17,2,2286,4572,Card,Completed,Not Delivered,India,Bangalore
+A1754,10/11/2023,C897,Male,33,Clothing,Product_78,1,9119,9119,COD,Cancelled,Not Delivered,India,Mumbai
+A1755,4/15/2023,C535,Male,41,Clothing,Product_63,3,16698,50094,COD,Cancelled,Not Delivered,India,Pune
+A1756,11/14/2023,C324,Female,59,Clothing,Product_1,1,15525,15525,UPI,Cancelled,Not Delivered,India,Hyderabad
+A1757,6/29/2023,C280,Male,55,Beauty,Product_12,3,12756,38268,UPI,Returned,Delivered,India,Hyderabad
+A1758,12/24/2023,C923,Male,26,Beauty,Product_111,1,13253,13253,UPI,Returned,Not Delivered,India,Jaipur
+A1759,12/29/2023,C812,Female,35,Clothing,Product_170,3,8864,26592,Card,Cancelled,Delivered,India,Indore
+A1760,1/9/2023,C630,Male,59,Electronics,Product_156,3,11062,33186,Card,Completed,Delivered,India,Delhi
+A1761,12/23/2023,C575,Female,43,Electronics,Product_167,2,18512,37024,COD,Completed,Delivered,India,Indore
+A1762,6/30/2023,C151,Female,56,Beauty,Product_100,3,4344,13032,UPI,Returned,Delivered,India,Mumbai
+A1763,4/9/2023,C670,Female,18,Clothing,Product_191,2,12439,24878,UPI,Cancelled,Not Delivered,India,Bangalore
+A1764,11/17/2023,C355,Female,32,Clothing,Product_127,1,20401,20401,Card,Completed,Not Delivered,India,Indore
+A1765,11/7/2023,C968,Male,18,Clothing,Product_164,3,23465,70395,Card,Completed,Not Delivered,India,Indore
+A1766,4/10/2023,C224,Male,22,Clothing,Product_191,1,18380,18380,UPI,Completed,Not Delivered,India,Bangalore
+A1767,5/21/2023,C567,Male,19,Beauty,Product_175,3,24184,72552,COD,Cancelled,Delivered,India,Chennai
+A1768,11/29/2023,C236,Male,38,Home & Kitchen,Product_105,3,22356,67068,Card,Completed,Not Delivered,India,Indore
+A1769,1/23/2023,C920,Male,21,Beauty,Product_108,2,17249,34498,COD,Cancelled,Not Delivered,India,Pune
+A1770,6/21/2023,C575,Male,54,Electronics,Product_189,2,6676,13352,UPI,Returned,Not Delivered,India,Mumbai
+A1771,3/26/2023,C783,Female,37,Electronics,Product_161,1,6751,6751,COD,Completed,Delivered,India,Indore
+A1772,10/31/2023,C643,Female,34,Clothing,Product_28,2,1087,2174,Card,Completed,Not Delivered,India,Pune
+A1773,5/2/2023,C672,Male,56,Home & Kitchen,Product_196,2,17328,34656,UPI,Returned,Not Delivered,India,Mumbai
+A1774,1/18/2023,C709,Female,38,Electronics,Product_33,1,2288,2288,UPI,Cancelled,Delivered,India,Hyderabad
+A1775,8/10/2023,C424,Male,24,Electronics,Product_144,3,20818,62454,UPI,Cancelled,Not Delivered,India,Chennai
+A1776,7/30/2023,C873,Male,56,Electronics,Product_117,1,20527,20527,Card,Cancelled,Not Delivered,India,Mumbai
+A1777,12/12/2023,C553,Male,47,Beauty,Product_151,2,21629,43258,UPI,Completed,Delivered,India,Pune
+A1778,2/4/2023,C727,Male,54,Clothing,Product_164,3,23673,71019,COD,Cancelled,Not Delivered,India,Chennai
+A1779,11/14/2023,C934,Female,29,Clothing,Product_36,2,24044,48088,UPI,Completed,Delivered,India,Hyderabad
+A1780,9/20/2023,C836,Female,37,Clothing,Product_38,3,14581,43743,Card,Cancelled,Not Delivered,India,Hyderabad
+A1781,9/23/2023,C616,Male,21,Clothing,Product_130,2,564,1128,COD,Completed,Not Delivered,India,Jaipur
+A1782,11/24/2023,C536,Male,22,Beauty,Product_49,1,6865,6865,COD,Cancelled,Not Delivered,India,Jaipur
+A1783,6/21/2023,C950,Female,44,Beauty,Product_42,3,18849,56547,UPI,Cancelled,Delivered,India,Indore
+A1784,11/24/2023,C661,Male,32,Home & Kitchen,Product_160,1,421,421,UPI,Completed,Not Delivered,India,Jaipur
+A1785,4/16/2023,C556,Female,29,Electronics,Product_93,3,12617,37851,UPI,Completed,Not Delivered,India,Pune
+A1786,3/14/2023,C262,Female,46,Clothing,Product_162,3,4074,12222,COD,Cancelled,Delivered,India,Pune
+A1787,5/26/2023,C861,Male,32,Beauty,Product_185,1,6782,6782,UPI,Cancelled,Delivered,India,Delhi
+A1788,4/1/2023,C982,Female,24,Electronics,Product_174,1,1004,1004,UPI,Cancelled,Delivered,India,Jaipur
+A1789,8/22/2023,C586,Male,41,Beauty,Product_170,1,10296,10296,UPI,Returned,Not Delivered,India,Mumbai
+A1790,3/8/2023,C560,Male,30,Home & Kitchen,Product_178,1,5032,5032,Card,Cancelled,Not Delivered,India,Bangalore
+A1791,10/28/2023,C365,Male,52,Beauty,Product_39,1,20486,20486,Card,Completed,Delivered,India,Hyderabad
+A1792,10/27/2023,C869,Female,31,Electronics,Product_121,1,16954,16954,COD,Returned,Delivered,India,Delhi
+A1793,11/27/2023,C353,Female,49,Home & Kitchen,Product_46,3,13017,39051,Card,Returned,Not Delivered,India,Indore
+A1794,8/31/2023,C960,Female,55,Home & Kitchen,Product_164,3,16513,49539,COD,Returned,Delivered,India,Bangalore
+A1795,8/20/2023,C752,Male,43,Clothing,Product_79,1,6951,6951,Card,Cancelled,Delivered,India,Jaipur
+A1796,2/13/2023,C383,Male,23,Beauty,Product_114,2,18340,36680,COD,Cancelled,Delivered,India,Pune
+A1797,11/15/2023,C884,Female,45,Home & Kitchen,Product_120,2,17085,34170,Card,Cancelled,Not Delivered,India,Indore
+A1798,7/15/2023,C896,Male,29,Home & Kitchen,Product_60,2,9246,18492,Card,Returned,Delivered,India,Jaipur
+A1799,9/14/2023,C633,Male,35,Clothing,Product_26,1,9950,9950,UPI,Completed,Not Delivered,India,Pune
+A1800,6/20/2023,C596,Male,39,Beauty,Product_78,3,6863,20589,COD,Returned,Not Delivered,India,Bangalore
+A1801,3/12/2023,C741,Female,18,Beauty,Product_73,3,20092,60276,Card,Cancelled,Not Delivered,India,Pune
+A1802,9/20/2023,C344,Male,43,Clothing,Product_59,2,21733,43466,COD,Returned,Delivered,India,Indore
+A1803,10/28/2023,C381,Female,47,Beauty,Product_22,1,17202,17202,Card,Completed,Not Delivered,India,Chennai
+A1804,8/19/2023,C550,Male,41,Clothing,Product_148,1,14674,14674,UPI,Cancelled,Delivered,India,Indore
+A1805,6/23/2023,C179,Male,44,Home & Kitchen,Product_176,3,11921,35763,Card,Returned,Not Delivered,India,Jaipur
+A1806,10/18/2023,C830,Male,26,Clothing,Product_85,3,1061,3183,COD,Returned,Not Delivered,India,Chennai
+A1807,2/2/2023,C392,Female,30,Home & Kitchen,Product_28,1,13100,13100,Card,Returned,Not Delivered,India,Hyderabad
+A1808,2/23/2023,C340,Male,20,Home & Kitchen,Product_7,1,5917,5917,UPI,Completed,Delivered,India,Chennai
+A1809,4/30/2023,C378,Female,60,Electronics,Product_117,2,7046,14092,UPI,Cancelled,Delivered,India,Delhi
+A1810,7/20/2023,C443,Male,25,Clothing,Product_138,2,13763,27526,Card,Cancelled,Delivered,India,Chennai
+A1811,4/16/2023,C427,Female,45,Home & Kitchen,Product_41,1,4557,4557,COD,Returned,Not Delivered,India,Bangalore
+A1812,12/17/2023,C653,Female,35,Clothing,Product_2,3,23787,71361,UPI,Cancelled,Delivered,India,Chennai
+A1813,9/27/2023,C182,Female,54,Home & Kitchen,Product_118,3,8388,25164,Card,Returned,Delivered,India,Mumbai
+A1814,8/22/2023,C241,Female,37,Home & Kitchen,Product_157,2,21477,42954,UPI,Cancelled,Delivered,India,Delhi
+A1815,8/10/2023,C254,Female,42,Clothing,Product_179,3,24326,72978,COD,Completed,Not Delivered,India,Pune
+A1816,5/21/2023,C336,Female,60,Electronics,Product_179,1,5475,5475,COD,Returned,Delivered,India,Indore
+A1817,3/4/2023,C492,Female,22,Electronics,Product_130,2,18414,36828,Card,Cancelled,Not Delivered,India,Delhi
+A1818,9/17/2023,C810,Male,47,Electronics,Product_19,2,7095,14190,COD,Returned,Not Delivered,India,Chennai
+A1819,7/24/2023,C256,Male,43,Electronics,Product_3,2,24743,49486,Card,Completed,Delivered,India,Jaipur
+A1820,8/26/2023,C823,Female,47,Electronics,Product_22,3,24832,74496,COD,Returned,Delivered,India,Indore
+A1821,5/23/2023,C319,Male,28,Electronics,Product_156,1,15726,15726,UPI,Completed,Not Delivered,India,Mumbai
+A1822,7/20/2023,C165,Male,22,Electronics,Product_174,3,24595,73785,Card,Completed,Not Delivered,India,Jaipur
+A1823,1/18/2023,C524,Male,46,Electronics,Product_163,1,7399,7399,COD,Returned,Delivered,India,Chennai
+A1824,8/16/2023,C517,Male,56,Electronics,Product_13,3,10403,31209,Card,Completed,Delivered,India,Jaipur
+A1825,2/16/2023,C438,Male,44,Electronics,Product_4,1,6853,6853,Card,Completed,Delivered,India,Bangalore
+A1826,3/27/2023,C655,Male,20,Home & Kitchen,Product_132,1,22061,22061,UPI,Cancelled,Not Delivered,India,Bangalore
+A1827,10/5/2023,C577,Female,45,Electronics,Product_60,3,7086,21258,UPI,Completed,Not Delivered,India,Jaipur
+A1828,7/25/2023,C525,Female,18,Home & Kitchen,Product_55,1,791,791,Card,Completed,Delivered,India,Hyderabad
+A1829,7/8/2023,C163,Male,22,Clothing,Product_106,3,20744,62232,Card,Returned,Not Delivered,India,Mumbai
+A1830,10/19/2023,C311,Male,34,Electronics,Product_154,3,17869,53607,Card,Returned,Not Delivered,India,Delhi
+A1831,11/22/2023,C952,Female,60,Home & Kitchen,Product_18,2,6045,12090,Card,Completed,Not Delivered,India,Chennai
+A1832,4/30/2023,C530,Male,32,Electronics,Product_158,3,21290,63870,UPI,Cancelled,Delivered,India,Chennai
+A1833,2/10/2023,C498,Male,26,Beauty,Product_128,1,20608,20608,Card,Completed,Delivered,India,Chennai
+A1834,1/20/2023,C888,Male,56,Home & Kitchen,Product_190,1,21338,21338,Card,Completed,Not Delivered,India,Jaipur
+A1835,9/24/2023,C698,Female,59,Beauty,Product_193,3,1597,4791,UPI,Completed,Not Delivered,India,Jaipur
+A1836,10/4/2023,C812,Male,60,Clothing,Product_176,1,7044,7044,COD,Returned,Delivered,India,Chennai
+A1837,4/4/2023,C120,Female,58,Electronics,Product_17,3,10839,32517,Card,Completed,Delivered,India,Pune
+A1838,4/15/2023,C977,Male,23,Clothing,Product_152,3,4937,14811,COD,Completed,Delivered,India,Mumbai
+A1839,8/28/2023,C883,Female,28,Clothing,Product_63,2,24056,48112,Card,Completed,Delivered,India,Hyderabad
+A1840,8/18/2023,C689,Male,35,Home & Kitchen,Product_21,2,19188,38376,Card,Cancelled,Not Delivered,India,Delhi
+A1841,8/5/2023,C489,Female,27,Home & Kitchen,Product_6,2,14763,29526,Card,Cancelled,Delivered,India,Hyderabad
+A1842,3/20/2023,C588,Male,34,Home & Kitchen,Product_119,3,17902,53706,Card,Cancelled,Not Delivered,India,Chennai
+A1843,9/4/2023,C106,Male,39,Clothing,Product_184,3,20158,60474,Card,Completed,Delivered,India,Bangalore
+A1844,9/14/2023,C460,Female,49,Home & Kitchen,Product_107,1,720,720,Card,Returned,Not Delivered,India,Chennai
+A1845,11/25/2023,C405,Male,44,Electronics,Product_32,2,10386,20772,Card,Returned,Delivered,India,Bangalore
+A1846,6/28/2023,C871,Female,58,Beauty,Product_179,2,8664,17328,UPI,Returned,Not Delivered,India,Chennai
+A1847,5/5/2023,C499,Female,20,Beauty,Product_162,3,8386,25158,COD,Returned,Delivered,India,Delhi
+A1848,8/22/2023,C973,Male,34,Clothing,Product_155,2,20138,40276,COD,Returned,Delivered,India,Pune
+A1849,11/26/2023,C955,Female,43,Electronics,Product_133,1,3324,3324,UPI,Cancelled,Delivered,India,Chennai
+A1850,6/4/2023,C529,Female,55,Beauty,Product_188,2,22970,45940,Card,Returned,Delivered,India,Mumbai
+A1851,6/26/2023,C651,Male,35,Clothing,Product_192,3,19063,57189,Card,Returned,Not Delivered,India,Pune
+A1852,1/1/2023,C865,Male,22,Home & Kitchen,Product_135,1,16412,16412,Card,Returned,Not Delivered,India,Chennai
+A1853,7/11/2023,C852,Male,26,Clothing,Product_125,1,6080,6080,UPI,Returned,Delivered,India,Indore
+A1854,4/6/2023,C659,Male,21,Clothing,Product_195,3,7265,21795,UPI,Cancelled,Not Delivered,India,Indore
+A1855,2/25/2023,C919,Male,23,Beauty,Product_22,3,20761,62283,Card,Completed,Not Delivered,India,Mumbai
+A1856,10/27/2023,C717,Male,48,Home & Kitchen,Product_173,2,1272,2544,UPI,Completed,Delivered,India,Hyderabad
+A1857,10/26/2023,C325,Male,24,Clothing,Product_134,1,22101,22101,UPI,Cancelled,Not Delivered,India,Indore
+A1858,11/6/2023,C599,Female,39,Beauty,Product_175,2,11343,22686,Card,Cancelled,Delivered,India,Jaipur
+A1859,7/13/2023,C324,Male,40,Beauty,Product_26,3,13357,40071,UPI,Cancelled,Not Delivered,India,Delhi
+A1860,3/4/2023,C379,Female,33,Beauty,Product_116,1,20023,20023,COD,Returned,Not Delivered,India,Chennai
+A1861,1/2/2023,C546,Female,19,Beauty,Product_12,3,6458,19374,COD,Cancelled,Not Delivered,India,Bangalore
+A1862,7/24/2023,C597,Male,40,Home & Kitchen,Product_122,3,16177,48531,COD,Returned,Delivered,India,Chennai
+A1863,4/10/2023,C129,Male,51,Electronics,Product_33,2,20195,40390,Card,Completed,Not Delivered,India,Indore
+A1864,3/1/2023,C498,Female,60,Clothing,Product_63,1,14923,14923,UPI,Completed,Delivered,India,Mumbai
+A1865,1/15/2023,C444,Male,38,Home & Kitchen,Product_197,2,23754,47508,Card,Completed,Not Delivered,India,Indore
+A1866,12/7/2023,C784,Male,52,Home & Kitchen,Product_24,3,4333,12999,COD,Cancelled,Delivered,India,Mumbai
+A1867,7/13/2023,C795,Female,59,Home & Kitchen,Product_60,3,11546,34638,UPI,Cancelled,Delivered,India,Hyderabad
+A1868,2/15/2023,C917,Female,55,Clothing,Product_191,1,3949,3949,UPI,Returned,Not Delivered,India,Delhi
+A1869,10/23/2023,C514,Male,37,Electronics,Product_152,2,12758,25516,COD,Completed,Not Delivered,India,Chennai
+A1870,12/14/2023,C841,Male,51,Clothing,Product_28,2,12261,24522,Card,Completed,Not Delivered,India,Jaipur
+A1871,4/23/2023,C269,Female,47,Clothing,Product_154,1,10026,10026,Card,Completed,Delivered,India,Jaipur
+A1872,12/19/2023,C960,Male,35,Home & Kitchen,Product_162,2,16761,33522,UPI,Cancelled,Not Delivered,India,Chennai
+A1873,3/20/2023,C578,Male,32,Electronics,Product_199,1,11216,11216,UPI,Cancelled,Not Delivered,India,Hyderabad
+A1874,1/12/2023,C230,Female,39,Home & Kitchen,Product_174,3,5516,16548,Card,Cancelled,Not Delivered,India,Chennai
+A1875,5/25/2023,C737,Female,30,Home & Kitchen,Product_25,1,17596,17596,UPI,Cancelled,Delivered,India,Hyderabad
+A1876,3/25/2023,C646,Male,46,Home & Kitchen,Product_75,2,21751,43502,UPI,Completed,Delivered,India,Bangalore
+A1877,1/5/2023,C127,Female,54,Electronics,Product_174,3,21639,64917,UPI,Cancelled,Not Delivered,India,Delhi
+A1878,7/2/2023,C503,Female,29,Electronics,Product_31,1,3447,3447,COD,Returned,Not Delivered,India,Chennai
+A1879,7/26/2023,C706,Male,20,Electronics,Product_62,1,20844,20844,Card,Cancelled,Not Delivered,India,Delhi
+A1880,7/12/2023,C677,Male,47,Home & Kitchen,Product_71,3,24718,74154,COD,Returned,Not Delivered,India,Jaipur
+A1881,3/1/2023,C778,Male,25,Home & Kitchen,Product_165,1,4232,4232,COD,Returned,Delivered,India,Pune
+A1882,10/21/2023,C127,Female,35,Electronics,Product_152,3,19075,57225,UPI,Cancelled,Not Delivered,India,Chennai
+A1883,3/6/2023,C185,Male,38,Electronics,Product_183,2,19024,38048,COD,Completed,Not Delivered,India,Pune
+A1884,10/2/2023,C758,Female,22,Electronics,Product_193,2,18520,37040,UPI,Returned,Delivered,India,Delhi
+A1885,4/3/2023,C538,Male,53,Home & Kitchen,Product_81,3,23080,69240,UPI,Completed,Delivered,India,Bangalore
+A1886,2/14/2023,C238,Female,20,Electronics,Product_32,3,5582,16746,COD,Cancelled,Not Delivered,India,Delhi
+A1887,1/1/2023,C987,Male,37,Electronics,Product_133,2,21866,43732,Card,Returned,Not Delivered,India,Delhi
+A1888,12/22/2023,C572,Female,51,Beauty,Product_156,3,16370,49110,COD,Returned,Delivered,India,Mumbai
+A1889,5/2/2023,C286,Male,30,Clothing,Product_77,3,1765,5295,UPI,Completed,Delivered,India,Jaipur
+A1890,11/15/2023,C151,Female,22,Beauty,Product_67,2,4510,9020,Card,Returned,Delivered,India,Chennai
+A1891,5/11/2023,C366,Female,27,Clothing,Product_19,2,3028,6056,COD,Returned,Not Delivered,India,Bangalore
+A1892,10/16/2023,C488,Male,44,Clothing,Product_81,3,12494,37482,Card,Cancelled,Delivered,India,Bangalore
+A1893,3/5/2023,C435,Male,53,Home & Kitchen,Product_17,1,9151,9151,Card,Returned,Delivered,India,Jaipur
+A1894,3/16/2023,C316,Male,35,Electronics,Product_26,2,9253,18506,Card,Completed,Not Delivered,India,Mumbai
+A1895,9/27/2023,C565,Female,55,Home & Kitchen,Product_25,1,6058,6058,COD,Cancelled,Not Delivered,India,Hyderabad
+A1896,1/25/2023,C434,Male,38,Home & Kitchen,Product_47,3,3546,10638,Card,Returned,Not Delivered,India,Indore
+A1897,5/13/2023,C445,Male,50,Clothing,Product_169,3,4480,13440,UPI,Completed,Not Delivered,India,Hyderabad
+A1898,11/24/2023,C879,Female,33,Home & Kitchen,Product_181,1,24070,24070,Card,Completed,Not Delivered,India,Jaipur
+A1899,5/27/2023,C488,Female,45,Clothing,Product_79,2,16757,33514,COD,Completed,Not Delivered,India,Chennai
+A1900,11/21/2023,C384,Male,22,Clothing,Product_24,2,3253,6506,UPI,Returned,Delivered,India,Mumbai
+A1901,10/11/2023,C870,Female,18,Home & Kitchen,Product_174,3,9666,28998,COD,Returned,Delivered,India,Indore
+A1902,12/17/2023,C951,Male,43,Electronics,Product_158,2,17175,34350,UPI,Returned,Delivered,India,Chennai
+A1903,6/26/2023,C531,Male,60,Electronics,Product_156,3,17808,53424,Card,Completed,Delivered,India,Delhi
+A1904,3/10/2023,C358,Female,21,Home & Kitchen,Product_127,1,12327,12327,Card,Completed,Not Delivered,India,Mumbai
+A1905,5/8/2023,C954,Male,36,Beauty,Product_124,2,22551,45102,Card,Cancelled,Delivered,India,Pune
+A1906,10/19/2023,C183,Female,31,Beauty,Product_165,3,20982,62946,COD,Completed,Not Delivered,India,Indore
+A1907,1/4/2023,C581,Female,39,Beauty,Product_91,1,11957,11957,UPI,Completed,Not Delivered,India,Delhi
+A1908,1/5/2023,C119,Male,45,Home & Kitchen,Product_51,2,11917,23834,UPI,Returned,Delivered,India,Chennai
+A1909,1/4/2023,C867,Male,60,Beauty,Product_58,1,16271,16271,Card,Cancelled,Not Delivered,India,Hyderabad
+A1910,4/4/2023,C652,Female,24,Home & Kitchen,Product_169,2,14335,28670,Card,Completed,Delivered,India,Jaipur
+A1911,1/3/2023,C153,Female,30,Electronics,Product_49,3,14520,43560,Card,Completed,Delivered,India,Chennai
+A1912,6/19/2023,C458,Male,28,Clothing,Product_123,2,24676,49352,COD,Cancelled,Delivered,India,Chennai
+A1913,9/11/2023,C329,Male,38,Home & Kitchen,Product_129,2,18326,36652,COD,Returned,Not Delivered,India,Delhi
+A1914,1/11/2023,C765,Male,27,Beauty,Product_129,1,3834,3834,UPI,Returned,Delivered,India,Pune
+A1915,8/8/2023,C170,Male,45,Home & Kitchen,Product_75,3,11511,34533,Card,Cancelled,Delivered,India,Chennai
+A1916,3/20/2023,C899,Male,33,Beauty,Product_197,1,20537,20537,UPI,Cancelled,Delivered,India,Chennai
+A1917,12/28/2023,C767,Male,50,Clothing,Product_49,1,15828,15828,COD,Returned,Delivered,India,Bangalore
+A1918,7/25/2023,C141,Male,35,Clothing,Product_38,1,4635,4635,Card,Completed,Delivered,India,Mumbai
+A1919,7/28/2023,C872,Female,58,Clothing,Product_57,1,12763,12763,Card,Cancelled,Not Delivered,India,Pune
+A1920,11/26/2023,C131,Male,37,Electronics,Product_69,3,14294,42882,Card,Cancelled,Not Delivered,India,Chennai
+A1921,1/25/2023,C353,Male,20,Electronics,Product_14,1,10780,10780,COD,Returned,Not Delivered,India,Bangalore
+A1922,5/24/2023,C304,Male,45,Clothing,Product_65,2,15768,31536,Card,Cancelled,Not Delivered,India,Hyderabad
+A1923,12/9/2023,C959,Male,53,Clothing,Product_85,1,3474,3474,Card,Returned,Not Delivered,India,Jaipur
+A1924,5/22/2023,C120,Male,55,Home & Kitchen,Product_23,1,21607,21607,UPI,Completed,Delivered,India,Pune
+A1925,4/8/2023,C736,Male,46,Electronics,Product_20,3,21741,65223,COD,Returned,Not Delivered,India,Hyderabad
+A1926,4/14/2023,C256,Male,20,Clothing,Product_50,3,15838,47514,Card,Returned,Not Delivered,India,Jaipur
+A1927,11/19/2023,C344,Male,45,Electronics,Product_124,2,14995,29990,Card,Returned,Delivered,India,Delhi
+A1928,12/23/2023,C229,Male,36,Electronics,Product_145,3,9283,27849,UPI,Returned,Delivered,India,Chennai
+A1929,9/30/2023,C584,Male,28,Home & Kitchen,Product_193,2,22736,45472,COD,Cancelled,Not Delivered,India,Chennai
+A1930,4/16/2023,C785,Male,18,Clothing,Product_147,3,9196,27588,UPI,Returned,Delivered,India,Indore
+A1931,9/26/2023,C217,Female,37,Clothing,Product_76,3,23491,70473,COD,Cancelled,Delivered,India,Delhi
+A1932,10/1/2023,C677,Male,36,Electronics,Product_164,1,1794,1794,UPI,Cancelled,Delivered,India,Hyderabad
+A1933,5/8/2023,C323,Male,52,Electronics,Product_1,1,21350,21350,COD,Cancelled,Not Delivered,India,Jaipur
+A1934,10/9/2023,C576,Female,26,Home & Kitchen,Product_157,1,23416,23416,Card,Cancelled,Delivered,India,Pune
+A1935,5/24/2023,C816,Male,34,Electronics,Product_138,2,7485,14970,COD,Returned,Delivered,India,Chennai
+A1936,11/17/2023,C362,Male,46,Clothing,Product_84,3,8732,26196,Card,Completed,Not Delivered,India,Delhi
+A1937,8/11/2023,C885,Female,27,Home & Kitchen,Product_24,2,7893,15786,Card,Completed,Not Delivered,India,Delhi
+A1938,10/19/2023,C477,Female,29,Beauty,Product_6,1,6488,6488,Card,Completed,Delivered,India,Chennai
+A1939,4/7/2023,C271,Male,27,Electronics,Product_110,3,20217,60651,UPI,Cancelled,Not Delivered,India,Mumbai
+A1940,3/12/2023,C720,Male,56,Electronics,Product_97,3,17561,52683,Card,Completed,Delivered,India,Pune
+A1941,3/9/2023,C721,Male,23,Beauty,Product_37,3,1733,5199,COD,Returned,Delivered,India,Pune
+A1942,6/23/2023,C865,Male,30,Clothing,Product_123,1,18072,18072,COD,Cancelled,Delivered,India,Hyderabad
+A1943,3/21/2023,C835,Male,21,Beauty,Product_161,2,15992,31984,COD,Completed,Delivered,India,Pune
+A1944,6/1/2023,C217,Male,50,Home & Kitchen,Product_37,1,18146,18146,UPI,Completed,Delivered,India,Bangalore
+A1945,3/17/2023,C896,Female,59,Beauty,Product_58,2,12928,25856,COD,Cancelled,Delivered,India,Indore
+A1946,4/25/2023,C938,Male,36,Beauty,Product_20,1,3908,3908,COD,Cancelled,Delivered,India,Jaipur
+A1947,11/6/2023,C267,Male,29,Home & Kitchen,Product_136,1,1720,1720,Card,Returned,Delivered,India,Chennai
+A1948,12/18/2023,C418,Female,57,Beauty,Product_90,1,22165,22165,UPI,Cancelled,Not Delivered,India,Jaipur
+A1949,2/9/2023,C210,Male,27,Clothing,Product_82,2,23608,47216,UPI,Cancelled,Not Delivered,India,Indore
+A1950,10/23/2023,C692,Female,35,Clothing,Product_24,1,4008,4008,Card,Completed,Delivered,India,Chennai
+A1951,9/11/2023,C126,Female,48,Home & Kitchen,Product_155,2,10763,21526,COD,Cancelled,Delivered,India,Bangalore
+A1952,10/9/2023,C419,Female,52,Home & Kitchen,Product_137,2,14018,28036,COD,Completed,Not Delivered,India,Mumbai
+A1953,8/4/2023,C689,Male,23,Clothing,Product_93,3,23726,71178,UPI,Completed,Delivered,India,Jaipur
+A1954,3/10/2023,C793,Male,21,Beauty,Product_93,3,15829,47487,UPI,Cancelled,Not Delivered,India,Delhi
+A1955,5/5/2023,C484,Male,32,Electronics,Product_192,3,14097,42291,UPI,Completed,Delivered,India,Chennai
+A1956,12/23/2023,C506,Female,41,Electronics,Product_180,3,1163,3489,UPI,Returned,Delivered,India,Indore
+A1957,1/16/2023,C832,Male,41,Clothing,Product_21,3,5483,16449,UPI,Completed,Delivered,India,Chennai
+A1958,8/29/2023,C303,Male,51,Beauty,Product_121,1,6277,6277,Card,Returned,Not Delivered,India,Indore
+A1959,1/7/2023,C177,Female,25,Clothing,Product_16,3,23081,69243,COD,Completed,Delivered,India,Delhi
+A1960,8/5/2023,C706,Female,53,Beauty,Product_147,1,13288,13288,COD,Cancelled,Delivered,India,Chennai
+A1961,2/17/2023,C807,Female,26,Clothing,Product_103,1,9207,9207,COD,Completed,Delivered,India,Chennai
+A1962,10/14/2023,C950,Male,47,Home & Kitchen,Product_81,1,24744,24744,COD,Returned,Not Delivered,India,Chennai
+A1963,7/10/2023,C742,Female,30,Beauty,Product_28,1,2091,2091,UPI,Completed,Not Delivered,India,Jaipur
+A1964,5/25/2023,C348,Male,52,Electronics,Product_17,1,8148,8148,UPI,Returned,Delivered,India,Hyderabad
+A1965,4/14/2023,C204,Male,33,Beauty,Product_22,1,18377,18377,COD,Returned,Delivered,India,Indore
+A1966,6/11/2023,C813,Male,37,Electronics,Product_92,1,1874,1874,Card,Cancelled,Delivered,India,Jaipur
+A1967,7/2/2023,C891,Male,24,Beauty,Product_105,2,24079,48158,COD,Returned,Delivered,India,Delhi
+A1968,7/15/2023,C408,Female,55,Electronics,Product_75,1,19540,19540,UPI,Completed,Not Delivered,India,Mumbai
+A1969,4/29/2023,C970,Male,59,Clothing,Product_197,3,3356,10068,COD,Completed,Not Delivered,India,Indore
+A1970,5/29/2023,C800,Female,57,Home & Kitchen,Product_11,1,11409,11409,COD,Returned,Not Delivered,India,Bangalore
+A1971,11/7/2023,C714,Male,27,Home & Kitchen,Product_25,1,20301,20301,UPI,Completed,Not Delivered,India,Mumbai
+A1972,8/21/2023,C924,Female,28,Beauty,Product_42,2,3383,6766,UPI,Cancelled,Not Delivered,India,Jaipur
+A1973,4/2/2023,C223,Female,34,Home & Kitchen,Product_66,1,2630,2630,Card,Returned,Delivered,India,Mumbai
+A1974,1/21/2023,C915,Female,36,Home & Kitchen,Product_105,3,16299,48897,COD,Returned,Delivered,India,Indore
+A1975,11/16/2023,C679,Female,41,Electronics,Product_175,2,17092,34184,Card,Returned,Not Delivered,India,Hyderabad
+A1976,11/14/2023,C901,Male,33,Electronics,Product_40,3,1698,5094,UPI,Cancelled,Not Delivered,India,Delhi
+A1977,2/7/2023,C142,Male,42,Home & Kitchen,Product_172,3,13383,40149,UPI,Cancelled,Not Delivered,India,Indore
+A1978,8/27/2023,C455,Male,23,Clothing,Product_188,3,17834,53502,UPI,Cancelled,Not Delivered,India,Bangalore
+A1979,2/3/2023,C645,Female,39,Home & Kitchen,Product_55,2,11071,22142,COD,Returned,Not Delivered,India,Mumbai
+A1980,1/20/2023,C538,Male,48,Clothing,Product_164,2,15195,30390,UPI,Cancelled,Delivered,India,Chennai
+A1981,8/9/2023,C777,Female,31,Electronics,Product_55,1,12145,12145,UPI,Returned,Not Delivered,India,Hyderabad
+A1982,4/1/2023,C479,Male,27,Electronics,Product_71,2,21130,42260,Card,Completed,Not Delivered,India,Indore
+A1983,4/20/2023,C170,Female,29,Electronics,Product_24,2,17495,34990,Card,Cancelled,Not Delivered,India,Delhi
+A1984,8/3/2023,C618,Female,48,Clothing,Product_179,1,11745,11745,Card,Cancelled,Not Delivered,India,Pune
+A1985,4/12/2023,C763,Male,60,Clothing,Product_83,3,19866,59598,COD,Returned,Not Delivered,India,Pune
+A1986,3/17/2023,C449,Female,38,Electronics,Product_173,1,15329,15329,Card,Cancelled,Delivered,India,Indore
+A1987,8/19/2023,C112,Male,20,Clothing,Product_191,1,21084,21084,UPI,Cancelled,Delivered,India,Chennai
+A1988,4/18/2023,C969,Male,54,Electronics,Product_95,1,11706,11706,Card,Completed,Not Delivered,India,Hyderabad
+A1989,12/25/2023,C530,Female,59,Home & Kitchen,Product_106,3,4387,13161,Card,Cancelled,Not Delivered,India,Chennai
+A1990,2/28/2023,C942,Male,47,Home & Kitchen,Product_96,3,11304,33912,UPI,Returned,Delivered,India,Chennai
+A1991,12/4/2023,C601,Female,58,Beauty,Product_180,2,9639,19278,COD,Completed,Delivered,India,Mumbai
+A1992,1/9/2023,C208,Female,24,Home & Kitchen,Product_192,1,21586,21586,COD,Returned,Delivered,India,Indore
+A1993,1/17/2023,C543,Female,44,Clothing,Product_58,3,19345,58035,Card,Returned,Not Delivered,India,Mumbai
+A1994,3/5/2023,C470,Female,47,Home & Kitchen,Product_166,1,15687,15687,COD,Returned,Not Delivered,India,Pune
+A1995,9/17/2023,C750,Female,35,Beauty,Product_79,2,7637,15274,Card,Returned,Delivered,India,Pune
+A1996,1/8/2023,C948,Male,27,Beauty,Product_133,2,1370,2740,COD,Returned,Not Delivered,India,Jaipur
+A1997,8/9/2023,C570,Male,53,Home & Kitchen,Product_50,1,19049,19049,COD,Returned,Not Delivered,India,Pune
+A1998,3/7/2023,C824,Female,29,Home & Kitchen,Product_82,3,14360,43080,COD,Completed,Not Delivered,India,Bangalore
+A1999,3/6/2023,C256,Male,58,Home & Kitchen,Product_196,1,23566,23566,COD,Cancelled,Delivered,India,Jaipur
