@@ -107,6 +107,7 @@ III. City wise sales contribution <br>
 IV. Delivery status distribution <br>
 V. Payment method usage <br>
 
+**Dashboard Interactivity Video:** https://drive.google.com/file/d/16GMxxb4IfQQ2E93LkA3g1LqQMQ6Efjiv/view?usp=drivesdk
 
 ## Project Structure 
 ```
@@ -119,7 +120,6 @@ ecommerce-sales-analysis/
 │   └── ecommerce_analysis_queries.sql
 │
 ├── dashboard/
-    ├── dashboard_interactivity.mp4 
 │   ├── dashboard_ss.png
 │   └── ecommerce_dashboard_analysis.pbix
 │
